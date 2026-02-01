@@ -1,0 +1,593 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anforderungen an 
+die 
+Einwilligungser klärung
+ 
+ 
+Mit gelt endes Dok ument  z u den 
+St andard
+s
+ 
+f ür die Dat enübermit t lung an 
+das Kraftf ahrt
+-
+Bundes amt
+ 
+ 
+St and:  
+August 
+202
+3
+ 
+ 
+
+An f orderungen an di e 
+Ei nw ill i gungserkl ärung
+ 
+ 
+ 
+Sta n d :
+ 
+Au g us t 
+20 2
+3
+ 
+Se i te : 
+2
+ 
+1
+ 
+Inha lts ve rze ic hnis
+ 
+ 
+1
+ 
+I nhalt sverzei chnis
+ 
+................................
+................................
+................................
+.......
+ 
+2
+ 
+2
+ 
+Verzei chnisse
+ 
+................................
+................................
+................................
+..............
+ 
+2
+ 
+2.1
+ 
+Abk ür zung sverzeichnis
+ 
+................................
+................................
+................................
+.
+ 
+2
+ 
+3
+ 
+Ei nleit ung
+ 
+................................
+................................
+................................
+....................
+ 
+3
+ 
+4
+ 
+Ei nholung und Form
+ 
+................................
+................................
+................................
+...
+ 
+3
+ 
+5
+ 
+I nhalt li che Anforderungen
+ 
+................................
+................................
+.........................
+ 
+3
+ 
+6
+ 
+Freiw il li gkeit  der Abga be
+ 
+................................
+................................
+...........................
+ 
+4
+ 
+7
+ 
+Belehrung
+ 
+................................
+................................
+................................
+....................
+ 
+4
+ 
+8
+ 
+Dauer der Verarbei t ung,  Löschung
+ 
+................................
+................................
+...........
+ 
+4
+ 
+9
+ 
+Wi derruf
+ 
+................................
+................................
+................................
+.......................
+ 
+4
+ 
+10
+ 
+Datenschutzerkl ärung/ Inform at i on des/der Ei nw illi genden
+ 
+................................
+.....
+ 
+5
+ 
+ 
+ 
+2
+ 
+V e rze ic hniss e
+ 
+2.1
+ 
+Ab kürzungs verzei chnis
+ 
+Ab kürzung
+ 
+Erkl ärung
+ 
+DSG VO
+ 
+Datenschut z
+-
+G r undverordnung
+ 
+FZV
+ 
+Fahrzeug
+-
+Zulassung sverordnung
+ 
+GK
+ 
+G r oßk unde
+ 
+G KS
+ 
+G r oßk undenschnit tst elle
+ 
+KBA
+ 
+Kr af tf ahrt
+-
+Bundesamt
+ 
+ 
+ 
+ 
+
+An f orderungen an di e 
+Ei nw ill i gungserkl ärung
+ 
+ 
+ 
+Sta n d :
+ 
+Au g us t 
+20 2
+3
+ 
+Se i te : 
+3
+ 
+3
+ 
+E inle itung
+ 
+Nach den §§ 38 Abs.  1,  39 Abs. 3 Sat z 2 FZV (= Fahrzeug
+-
+Zulassungsveror dnung) bedarf  bei 
+einer  Antr ag st ellung  f ür Dr it t e die Überm itt lung der Fahr zeug
+-
+ 
+und Halt erdat en im Umf ang der 
+Eintr ag ung en in den Zulassungsbescheinig ung en T eil I  und T eil I I an den G r
+oßk unden der  aus-
+drück lichen Einwi llig ung  des/ der (k ünf t ig en)  Halt er s/ Halt er in. Handelt es sich bei dem/ der  (künf -
+t ig en)  Halt er ( in) um eine nat ürliche Per son oder  eine Ein
+-
+Personen
+-
+G esellschaf t , ist  zusät zlich 
+zur Vollm acht g em äß Anlag e 12 FZV eine g esonder t
+e dat enschutzr echt liche Einwi llig ung serk lä-
+r ung erf or der lich,diedenAnf or der ung ennachAr t.7i.V. m .denArt .4Nr .11und6Abs. 1Buchst . 
+a) DSG VO  ent spr echenm uss.  
+ 
+Um  dies zug ewähr leist en, ist vomGr oßk unden in deng enannt en Fallk onst ellationen Fol
+g endes 
+zu beacht en:
+ 
+4
+ 
+E inholung und Form
+ 
+-
+ 
+DieEin will ig ungserk lärung istvomGr oßk undenvorAntr agstellungüberdieG KSals 
+unveränder liches (r evisi onssicher es), i. d. R. elekt r onisches Dok um ent einzuholen,  
+zu speicher n bzw.  auf zubewahr en und dem KBAauf  Verl
+ang en vorzuleg en.
+ 
+-
+ 
+Zum Nachweisder Ur heber schaf t des/ der Einwil li g enden( =des/ der(k ünf t ig en) Hal-
+t ers/ Halt erin) m uss die Ein wil lig ung serk lärung bei elektronischer Abg abe m it einer 
+q ualif iziert en elektr onischen Sig nat ur  des/ der  Einwill ig enden, bei schr if t l
+icher  Ab-
+g abe m it dessen/ der en or ig inal handschr if t licher Unter schr if t versehen sein. 
+ 
+-
+ 
+Der Gr oßk unde hat  die recht liche W irk samk eit der  Einwi llig ung serk lär ung  sicher zu-
+st ellen ( zum Ausnahm efall desW iderr uf s s.  u.  Zif f . 6) und haf t et  daf ür.
+ 
+5
+ 
+Inha ltlic he Anfor
+de ru ngen
+ 
+-
+ 
+DieEin wi ll ig ung m ussinhalt lichdenAnf or der ungender Art .7i. V.m. 4Nr. 11und6 
+Abs. 1 Buchst.  a)  DSG VO  ent sprechen, d. h. insbesonder e 
+ 
+o
+ 
+eine in inf orm iert er  W eise abg eg ebene, eindeut ige W illensbek undung unter 
+Ang abe des/ der zulässig en Verar beit ungszweck s/ Verar beit ung szweck e ent-
+halt en,  
+ 
+o
+ 
+die verar beit eten per sonenbezog enen Daten benennen,
+ 
+o
+ 
+ggf .  besonder e Kategor ien verar beit eter  per sonenbezog
+ener Daten benen-
+nen,
+ 
+o
+ 
+die Verar beit ung st ät igkeit en beim KBA und dessen Auf tr ag sverar beit er 
+(
+O ZG
+-
+Dienst leist er des Landes Baden
+-
+W ürtt emberg )
+ 
+sowie beim Gr oßkun-
+den dar leg en,
+ 
+o
+ 
+die Fr eiwi llig k eit der Abgabe der Einwi ll ig ung serk lärung  erk ennen lassen 
+ 
+und 
+ 
+o
+ 
+Hin wei
+se auf  dasW iderruf sr echt sowie die sonst ig en Rechte der / des Einwil-
+lig enden ent halt en. Der/Die Ein wil lig ende ist darüber zu unt err ichten,  dass 
+dieW irk samk eit der bis zumW iderr uf  g et ätig t en Datenverar beit ung en unbe-
+r ührt  bleibt.
+ 
+
+An f orderungen an di e 
+Ei nw ill i gungserkl ärung
+ 
+ 
+ 
+Sta n d :
+ 
+Au g us t 
+20 2
+3
+ 
+Se i te : 
+4
+ 
+6
+ 
+Fre iw il ligk eit de r Abg a be
+ 
+-
+ 
+I
+n der  Einwil lig ung serk lärung  ist auf  die Fr eiwi ll igkeit  ihrer  Abg abe sowie dar auf  hin-
+zu weisen,  dass die Nichtabg abe einer  Ant r ag st ellung  über die Gr oßk undenschnit t-
+st elle nicht entg eg enst eht .
+1
+  
+ 
+-
+ 
+Die Folg en der  Nichtabgabe sind dar zuleg en
+ 
+7
+ 
+Bel e hrung
+ 
+-
+ 
+Der G r o
+ßkunde hat den/ die Einwil lig ende vor Abg abe der Einwill ig ung serk lärung 
+über dessen/ der en Recht e, insbesonder e über die Freiwill igk eit der Abg abe der Er -
+k lärung und dasW iderr uf sr echt , zu belehr en und dies zu dok um ent ier en. Die Dok u-
+m ent at ion über die Belehr u
+ng  ist dem  KBA auf  Ver lang en zur Verf üg ung  zu st ellen.
+ 
+8
+ 
+Daue r de rV e rarbe itung, Lös c hung
+ 
+-
+ 
+DieW irksamk eit derEinwill ig ungserk lärungist auf denZeitr aumabihrer Abg abebis 
+zum Ende desdritt en Jahres danach zu beg r enzen.
+ 
+-
+ 
+Mit  Ablauf  der  unt er dem vorst e
+henden Spieg elst rich g enannten Frist hat  der G r oß-
+k unde j eg liche Nutzung  der  überm itt elt en Fahr zeug
+-
+ 
+und Halt er dat en einzustellen 
+und diese zu löschen, es sei denn, er  hat r echtzeit ig vor Fr ist ablauf  in eig ener  Ver -
+ant wort ung von dem / der bet r of f enen Fahr zeug
+halt er( in) eine neue Einwil li g ung  zur 
+W eit ernut zung  eing eholt.
+ 
+-
+ 
+DerG r oßkunde hat die Ein wil lig ung serk lärung abder en Er t eilung bis zumEnde des 
+dritt en Jahr es nach dem Jahr ihrer Abg abe zu speicher n bzw.  auf zubewahr en und 
+sie dem  KBA auf  Ver lang en zur Ve
+rf üg ung zu stellen.  Danach ist  sie zu löschen,  es 
+sei denn,
+ 
+o
+ 
+das KBA hat dem G r oßkunden ber echt ig te I nt eressen m itg et eilt , aus denen 
+eine weit ere Speicher ung erf order lich ist oder
+ 
+o
+ 
+beim G r oßk unden selbst lieg en der art ig eG r ündevor.
+ 
+9
+ 
+W ide rruf
+ 
+-
+ 
+Über  einen etwaig en W ider r uf  der  dat enschut zrecht lichen Einwil lig ung serk lärung 
+und/oderderVollm acht gem äßAnlag e12zurFZVdur chden/ dieDr it t ehat der G r oß-
+k unde das KBA unverzü g lich zu unt er r icht en. 
+ 
+-
+ 
+I m Falle eines vollst ändi g en oder  t eilweisen W ider
+r uf s der  Einwil lig ung serk lärung 
+dur chden/ dieEinwill ig endehatder Gr oßk undedenW iderr uf zuspeicher n,denZeit -
+punkt seines Zug ang s zu dok um ent ieren und dem  KBA auf  Verlang en beide Dok u-
+m ent e zur Verf üg ung  zust ellen.
+ 
+                                        
+       
+ 
+1
+ 
+And ers  als  e in F e hle n der  Vol lm ac ht s teht d ie 
+N ic htab gabe der  g es ond erten Ei n wil li gun gs erk lärung der  
+Antra gs tel lun g über  d ie  G KS  n ic ht ent geg en,  et wa  wenn  d er Dr i tte  im  Vo llm ac hts f orm ular Vers an d der 
+Z ulas s un gs unter lag en a n s ic h s elbs t a nk r euzt . E ine Ü ber m ittlung d er F ahr zeug
+-
+ 
+und Ha lter date n im  Um -
+f an
+g der  Z ul as s ungs b es c hein igu nge n T eil I und T ei l II  is t dan n a ller din gs  nic h t m ögl ic h, d er G K erh ält nur  
+das  Dat um  der  Zulas s ung oder d er Auß erbetr iebs e t zu ng u nd d ie G ebü hr m itgetei lt (v gl. § 3 9 A bs . 3 FZ V) .
+ 
+ 
+
+An f orderungen an di e 
+Ei nw ill i gungserkl ärung
+ 
+ 
+ 
+Sta n d :
+ 
+Au g us t 
+20 2
+3
+ 
+Se i te : 
+5
+ 
+-
+ 
+Ab Zug ang des W iderr uf s wir d der G r
+oßk unde die weit ere Datenverar beitung auf -
+g rundder Einwil lig ung serk lärung einstellenunddieDatenunverzüg lichlöschen, so-
+f ern k eine Auf bewahr ung sf r ist en entg eg enst ehen und der  W ider r uf  r echt swir k sam 
+ist .
+ 
+10
+ 
+Date ns c hutze rk lä rung/Informa tion des /de r E inw il lig
+e nden
+ 
+-
+ 
+Zur I nf orm ationdes/ der Ein wil lig endenüberdieDatenverar beit ung inderG KSdur ch 
+dasKBAunddessenAuf t r ag sverar beit erst eht auf dem I nf opor t aldesKBAeineDa-
+
+
+ 
+Antr ag st ellungf ür natürlichePer-
+sonen
+
+g ende zur Verf üg ung . Sie erset zt  weder die I nf orm ation über  die Dat enverar beit ung 
+dur ch den Gr oßk unden selbst noch die Belehr ungg emäß Zif f . 4 dieser Anlag e.
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impressum 
+ 
+ 
+Herausgeber
+:
+ 
+Kr af tf ahrt
+-
+Bundesamt
+ 
+24932 Flensburg
+ 
+ 
+I nter net:
+ 
+www. k ba. de
+ 
+ 
+ 
+Fachliche Ausk ünf t e und Berat ung:
+ 
+ 
+T elef on:
+ 
+0461 316
+-
+0
+ 
+T elef ax:
+ 
+0461 316
+-
+1650
+ 
+E
+-
+Mai l:  
+ 
+k ba@k ba. de
+ 
+ 
+ 
+Er schienen im 
+Aug ust
+ 
+2023
+ 
+St and: 
+ 
+Aug ust  
+2023
+ 
+ 
+Dr uck :
+ 
+Dr uck zent r um KBA
+ 
+ 
+Bildq uelle:
+ 
+n.
+ 
+a.
+ 
+ 
+ 
+ 
+ 
+ 
+Al l e  Re c h te  vo rbe h al te n . Die Ve rvi e l fäl ti gu n g u nd  Ve rb re i tun g  di e se r Ve rö ff en tli c hu n g , a uc h  a u s zu gs we i s e u nd  in 
+d i g i ta l e r 
+Fo rm , is t n u r m i t Qu e ll e n a ng a be  g e sta tt et.  Dies  g i l t a u c h, we n n  In h a l te  d i es e r Ve rö ff e n tl ic h u ng  we i te rve r-
+b re i tet we rd e n , di e  nu r mi tt el ba r e rl an g t wu rd e n .
+ 
+ 
+© Kra ft fa h rt
+-
+Bu n de s am t, Fl e nsb u rg
+ 
+ 

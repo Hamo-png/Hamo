@@ -1,0 +1,506 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anforderungen an  das 
+Date nschutzkonzept des 
+Großkunden
+ 
+ 
+Mit gelt endes Dok ument  z u den 
+St andard
+s
+ 
+f ür die Dat enübermit t lung an 
+das Kraftf ahrt
+-
+Bundes amt
+ 
+ 
+St and:  
+Mai 
+202
+3
+ 
+ 
+
+An f orderungen an dasDatenschutzkonzept  des Großkunden
+ 
+Sta n d : 
+Novem b e r
+ 
+2 0 22
+ 
+Se i te : 
+2
+ 
+ 
+1
+ 
+Inha lts ve rze ic hnis
+ 
+ 
+1
+ 
+I nhalt sverzei chnis
+ 
+................................
+................................
+................................
+.......
+ 
+2
+ 
+2
+ 
+Verzei chnisse
+ 
+................................
+................................
+................................
+..............
+ 
+2
+ 
+2.1
+ 
+Abk ür zung sverzeichnis
+ 
+................................
+................................
+................................
+.
+ 
+2
+ 
+3
+ 
+Ei nleit ung
+ 
+................................
+................................
+................................
+....................
+ 
+3
+ 
+4
+ 
+Al l gemei ne Anforderungen an das Datensc
+hutzkonzept
+ 
+................................
+........
+ 
+3
+ 
+5
+ 
+Voll macht en und Ei nw il li gungen
+ 
+................................
+................................
+...............
+ 
+3
+ 
+6
+ 
+Spezi ell e Anforderungen bei Verarbei t ungenmi t hohem Ri si ko
+ 
+............................
+ 
+4
+ 
+7
+ 
+Überw achung durch das KB A
+ 
+................................
+................................
+...................
+ 
+4
+ 
+ 
+ 
+2
+ 
+V e rze ic hniss e
+ 
+2.1
+ 
+Ab kürzungs verzei chnis
+ 
+A
+b kürzung
+ 
+Erkl ärung
+ 
+BDSG
+ 
+Bundesdat enschut zg eset z
+ 
+DSG VO
+ 
+Datenschut z
+-
+G r undverordnung
+ 
+FZV
+ 
+Fahrzeug
+-
+Zulassung sverordnung
+ 
+G KS
+ 
+G r oßk undenschnit tst elle
+ 
+KBA
+ 
+Kr af tf ahrt
+-
+Bundesamt
+ 
+S
+DÜ
+ 
+St andar ds 
+f ür  die
+ 
+Dat enüber m itt lung
+ 
+ 
+
+Datenschutzr echt li cheAn f orderungen an denG roßkunden
+ 
+ 
+ 
+ 
+Sta n d :
+ 
+Ma i  
+202
+3
+ 
+Se i te : 
+3
+ 
+ 
+3
+ 
+E inle itung
+ 
+Der Gr oßk unde hat  hinsichtlich der  Nutzung  der Gr oßk undenschnitt st elle (G KS)  dur ch ihn ein 
+Datenschut zk onzept  zuerst ellen.
+ 
+DasDatenschut zk onzeptist vordererst enNutzung der G r oßk undenschnittst ellezuerst ellenund 
+st ets akt uell zu halt en.  
+ 
+Durch die vom G r oßkunden g et r of f enen und im  Datenschut zk onzept  dokument iert en Maßnah-
+m enm ussdieEinh
+alt ungallereinschläg ig enVor schrif t en, insbesonder eder  
+Datenschut z
+-
+Gr und-
+veror dnung (
+DSG VO
+)
+ 
+und des 
+Bundesdat enschutzg eset zt es (
+BDSG
+)
+, etwa ig er Vorg aben des 
+Bundesbeauf tr ag t en f ür  den Datenschut z und die I nf orm ationssicher heit  sowie der  Vorg aben in 
+denvom 
+Kr af tf ahr t
+-
+Bundesamt(
+KBA
+)
+ 
+veröf f ent lichten 
+St andar ds 
+f ürdie
+ 
+Datenüberm it t lung(
+SDÜ
+)
+ 
+g ewähr leist etsein.
+ 
+4
+ 
+Al lge me ine  
+Anforde r unge
+n a n d
+a s Da tensc hutzk onzept
+ 
+Das Dat enschut zk onzept m ussm indestensf olg ende I nhalt e auf weisen/ umfassen:
+ 
+-
+ 
+Name und Kont akt dat endes/ der betr ieblichen Datenschut zbeauf tr ag t en
+ 
+-
+ 
+ggf . zusät zlich
+:  Name und Kont akt dat en der f ür den Datenschut z im  Rahm en der  
+G KS
+-
+Nutzung  zuständig en Per son
+ 
+-
+ 
+Ang abe aller Personen/Personeng r uppen, der en Daten verar beit et werden ( betr of f ene 
+Personen)
+ 
+-
+ 
+Ang abe aller verar beit eten Daten/ Dat enart en 
+ 
+-
+ 
+Recht sg r undlag en der  Verar beit ung 
+ 
+-
+ 
+Verar beit ung sz
+w
+eck ( e)
+ 
+-
+ 
+Beschr eibung säm t licher Verar b
+eit ung st ät igkeit en ( Verf ahr ensbeschreibung )
+ 
+-
+ 
+bei Datenüberm it t lung en:  Ang abe der Em pf äng er 
+ 
+-
+ 
+Ang abe aller Zug r if f sberecht ig ung en ( Ber echt ig ung sk onzept)
+ 
+-
+ 
+Ang abe ( Beg inn und Dauer )
+ 
+und ggf . Begründung ( sof er n nicht dur ch G esetz oder Ver -
+ordnung  vorg eg eben) der  L
+öschungsf r ist en
+ 
+-
+ 
+Beschr eibung der dur chdenG r oßkundeng etr of f enent echnischenundorganisator ischen 
+Maßnahmen/ Abhilf emaßnahmen zum Datenschutz
+ 
+-
+ 
+W ahr ung der Betr off enenrecht e
+ 
+-
+ 
+Maßnahmen bei Datenschut zverst ößen
+ 
+-
+ 
+ggf . Ang aben zu einer  Auf tr ag sdat enverar beit ung 
+oderg emeinsam  Ver antwort lichen
+ 
+5
+ 
+V ollm a c hte n und E inw ill igungen
+ 
+Bezüg lich der  Antr ag st ellungf ür  Dr it t e m uss dasDatenschut zk onzept  Folg endes r eg eln: 
+ 
+-
+ 
+Verf ahr en der Ert eilung und Verif izierung der Vollm acht einschließlich ihrerW eit er leit ung 
+an das KBAsowi
+e das Verf ahr en beiW ider r uf  der Vollm acht dur ch den Dr it t en,
+ 
+
+Datenschutzr echt li cheAn f orderungen an denG roßkunden
+ 
+ 
+ 
+ 
+Sta n d :
+ 
+Ma i  
+202
+3
+ 
+Se i te : 
+4
+ 
+ 
+-
+ 
+Verf ahr en der  Er t eilung und Verif izierung einer Ein wil lig ung nach den §§ 38 Abs. 1, 39 
+Abs. 3 Satz 2 
+Fahrzeug
+-
+Zulassung sveror dnung
+ 
+(
+FZV
+)
+ 
+einschließlich der  Belehr ung  des 
+Dr it t enüberdieBedeut u
+ngundFreiwill igk eitderEin wil lig ungundDok ument ationderBe-
+lehr ung,W eit erleit ung der Einwi llig ung andasKBAsowiedasVerf ahr enbeiW ider r uf der 
+Ein wil lig ung  dur ch den Dr it t en.
+ 
+6
+ 
+S
+pe zie lle  Anf orde rungen 
+be i 
+Ve ra rbe itunge n mi t hohe m Risik o
+ 
+Unter  den Vor
+ausset zung en des Art .  35 DSG VO ( Verar beitung en m it  voraussichtlich hohem  Ri-
+sik o) ist  eine Datenschutz
+-
+Folg enabschät zung nach dieser Vorschrif t dur chzuf ühr en und der en 
+Er g ebniszudok um ent ieren. I ndiesem Fallm üssendieBeschr eibungder Verar beit ung svorg än
+g e 
+und 
+-
+zweck e sowie der  zur Bewä lt ig ung  der Risik en g eplant en Abhilf emaßnahmen in Umf ang 
+und T ief e den Anf or der ung en g em.  Ar t.  35 Abs. 7 DSG VO ent sprechen und das Dat enschut z-
+k onzept  zusät zlichf olg ende I nhalt e umf assen:
+ 
+-
+ 
+eine Bewert ung  der  Notwend igk eit  un
+d Verhält nism äßigkeit  der  Ver arbeitung svorg änge 
+in Bezug  auf  den Zweck ,
+ 
+-
+ 
+eine Bewert ung  der Risikenf ür  die Recht e und Freiheit en der  bet r off enenPersonen.
+ 
+7
+ 
+Übe rw a c hung 
+durc hda s  KB A
+ 
+AufVerlang endesKBAist diesemdasDat enschutzk onzept zurEinsichtnahm eu
+ndPr üf ung vor-
+zuleg en und bei Bedarf  zu änder n.
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impressum 
+ 
+ 
+Herausgeber
+:
+ 
+Kr af tf ahrt
+-
+Bundesamt
+ 
+24932 Flensburg
+ 
+ 
+I nter net:
+ 
+www. k ba. de
+ 
+ 
+ 
+Fachliche Ausk ünf t e und Berat ung:
+ 
+ 
+T elef on:
+ 
+0461 316
+-
+0
+ 
+T elef ax:
+ 
+0461 316
+-
+1650
+ 
+E
+-
+Mai l:  
+ 
+k ba@k ba. de
+ 
+ 
+ 
+Er schienen im 
+M
+ai
+ 
+2023
+ 
+St and: 
+ 
+Ma i 2023
+ 
+ 
+Dr uck :
+ 
+Dr uck zent r um KBA
+ 
+ 
+Bildq uelle:
+ 
+n.a.
+ 
+ 
+ 
+ 
+ 
+ 
+Al l e  Re c h te  vo rbe h al te n .
+ 
+Die Ve rvi e l fäl ti gu n g u nd  Ve rb re i tun g  di e se r Ve rö ff en tli c hu n g , a uc h  a u s zu gs we i s e u nd  in 
+d i g i ta l e r Fo rm , is t n u r m i t Qu e ll e n a ng a be  g e sta tt et.  Dies  g i l t a u c h, we n n  In h a l te  d i es e r Ve rö ff e n tl ic h u ng  we i te rve r-
+b re i tet we rd e n , di e  nu r mi tt el ba r e rl an g t wu rd e n .
+ 
+ 
+© 
+Kra ft fa h rt
+-
+Bu n de s am t, Fl e nsb u rg
+ 
+ 

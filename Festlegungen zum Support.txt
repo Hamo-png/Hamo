@@ -1,0 +1,3341 @@
+ 
+ 
+ 
+ 
+Großkundensc hnittstelle
+ 
+-
+ 
+Fest legunge n zum Support
+ 
+-
+ 
+ 
+Mit gelt endes Dok ument z u denSt andards f ür die Dat enübermit t lungan 
+das  
+Kraftf ahrt
+-
+Bundes amt
+ 
+St and:  
+Februar
+ 
+20
+24
+ 
+
+F
+e s tle gunge n zumSupport
+ 
+ 
+ 
+Sta n d : Fe b rua r 2 02 4
+ 
+Se i te : 
+2
+ 
+1
+ 
+Inha lts ve rze ic hnis
+ 
+ 
+ 
+Seit e
+ 
+1
+ 
+I nhalt sverzei chnis
+ 
+................................
+................................
+................................
+.......
+ 
+2
+ 
+2
+ 
+Verzei chnisse
+ 
+................................
+................................
+................................
+..............
+ 
+3
+ 
+2.1
+ 
+Änderungsverzeichnis
+ 
+................................
+................................
+................................
+...
+ 
+3
+ 
+2.2
+ 
+Abbildung sverzeichnis
+ 
+................................
+................................
+................................
+...
+ 
+3
+ 
+2.3
+ 
+Abk ür zung sverzeichnis
+ 
+................................
+................................
+................................
+.
+ 
+4
+ 
+3
+ 
+Ei nleit ung
+ 
+................................
+................................
+................................
+.....................
+ 
+5
+ 
+4
+ 
+O rgani sati on
+ 
+................................
+................................
+................................
+................
+ 
+5
+ 
+4.1
+ 
+Anwender
+ 
+................................
+................................
+................................
+......................
+ 
+7
+ 
+4.2
+ 
+Fir st  Level Support ( L1)
+ 
+................................
+................................
+................................
+.
+ 
+7
+ 
+4.3
+ 
+T echn
+ischer  Suppor t des G K
+ 
+................................
+................................
+........................
+ 
+8
+ 
+4.4
+ 
+Second Level Suppor t  des O ZG
+-
+Dienst leist ers des Landes Baden
+-
+W ürtt em berg (O ZG
+-
+DL
+-
+L2)
+ 
+................................
+................................
+................................
+...........................
+ 
+8
+ 
+4.5
+ 
+Second Level Suppor t  eines i
+-
+Kf z
+-
+Port als( P
+-
+L2)
+ 
+................................
+...........................
+ 
+8
+ 
+4.6
+ 
+Zust ändig e Verf ahr ensbetr euung des KBA 
+( VB)
+ 
+................................
+...........................
+ 
+9
+ 
+4.7
+ 
+T hir d Level Suppor t desO ZG
+-
+Dienst leist ers desLandes Baden
+-
+W ürt t em berg ( K1
+-
+L3)
+ 
+.
+ 
+9
+ 
+4.8
+ 
+T hir d Level Suppor t eines i
+-
+Kf z
+-
+Port als( P
+-
+L3)
+ 
+................................
+.............................
+ 
+10
+ 
+4.9
+ 
+Zulassung sbehör de( ZulB)
+ 
+................................
+................................
+..........................
+ 
+10
+ 
+4.10
+ 
+T echnischer  Suppor t des KBA
+ 
+................................
+................................
+....................
+ 
+11
+ 
+4.11
+ 
+T echnischer  Suppor t der i
+-
+Kf z
+-
+Port albet r eiber
+ 
+................................
+.............................
+ 
+11
+ 
+4.12
+ 
+Anwender bet r euungG KS des KBA
+ 
+................................
+................................
+.............
+ 
+11
+ 
+4.13
+ 
+Abg r enzung en im Über blick
+ 
+................................
+................................
+........................
+ 
+11
+ 
+5
+ 
+Festl egungen zur Kommunikat i on
+ 
+................................
+................................
+...........
+ 
+12
+ 
+5.1
+ 
+Sprache
+ 
+................................
+................................
+................................
+.......................
+ 
+12
+ 
+5.2
+ 
+Kont ak tm edium
+ 
+................................
+................................
+................................
+...........
+ 
+12
+ 
+5.3
+ 
+Speicher ung von Kont akt inf orm ationen
+ 
+................................
+................................
+.......
+ 
+12
+ 
+5.4
+ 
+Personenbezog ene Angaben
+ 
+................................
+................................
+......................
+ 
+13
+ 
+6
+ 
+I nformati onsmanagement
+ 
+................................
+................................
+.........................
+ 
+13
+ 
+6.1
+ 
+Suppor t  FAQ
+ 
+................................
+................................
+................................
+...............
+ 
+13
+ 
+6.2
+ 
+Verzeichnis der  Supporteinheit en G KS
+ 
+................................
+................................
+.......
+ 
+13
+ 
+6.3
+ 
+W issensdat enbank undwe it ere Dok um ent at ion
+ 
+................................
+..........................
+ 
+14
+ 
+6.4
+ 
+I nf or m at ionsg ebot
+ 
+................................
+................................
+................................
+.......
+ 
+14
+ 
+
+Fe s tle gunge n zumSupport
+ 
+ 
+ 
+Sta n d : 
+Fe b rua r 2 02 4
+ 
+Se i te : 
+3
+ 
+ 
+6.5
+ 
+I nf or m at ionsschreiben
+ 
+................................
+................................
+................................
+ 
+14
+ 
+7
+ 
+Err eichbarkei t en und Kont akt dat en
+ 
+................................
+................................
+........
+ 
+14
+ 
+7.1
+ 
+Er r eichbark eit des Second Level Suppor t s desOZG
+-
+Dienst leist er s des Landes Baden
+-
+W ürtt em berg (O ZG
+-
+DL
+-
+L2)
+ 
+................................
+................................
+.........................
+ 
+14
+ 
+7.2
+ 
+Er r eichbark eit des Second Level Suppor t s einesi
+-
+Kf z
+-
+Port als( P
+-
+L2)
+ 
+.........................
+ 
+15
+ 
+7.3
+ 
+Er r eichbark eit der  zuständig en Verf ahr ensbetr euung des KBA( VB)
+ 
+..........................
+ 
+15
+ 
+7.4
+ 
+Er r eichbark eit der  Anwe
+nderbetr euung G KS
+ 
+................................
+..............................
+ 
+16
+ 
+7.5
+ 
+
+ 
+.......................
+ 
+16
+ 
+7.6
+ 
+Er r eichbark eit des t echnischen Support s der i
+-
+Kf z
+-
+Port albet r eiber
+ 
+.............................
+ 
+16
+ 
+ 
+2
+ 
+V e rze ic hniss e
+ 
+2.1
+ 
+Än derungs verzei chnis
+ 
+ 
+Versi on
+ 
+Datum
+ 
+St atus
+ 
+G eän-
+dert e
+ 
+Kapi t el
+ 
+G rund der Änderung
+ 
+ 
+1.0
+ 
+20. 09. 22
+ 
+Er st ellt  
+ 
+ 
+I nit iale Erst ellung  
+ 
+2.0
+ 
+06. 02. 24
+ 
+Über arbeit et
+ 
+7.1 
+ 
+Akt ualisierungT elef onnum m er  und 
+ 
+E
+-
+Mai l
+-
+Adresse Komm. ONE
+ 
+ 
+2.2
+ 
+Ab bil dungsverzei chnis
+ 
+Seit e
+ 
+Abbildung  1: Syst emk ontext  der G KS
+ 
+................................
+................................
+.........................
+ 
+6
+ 
+Abbildung  2: Support
+-
+Rollen im  Syst emk ont ext  der G KS
+ 
+................................
+...........................
+ 
+7
+ 
+ 
+ 
+ 
+
+F
+e s tle gunge n zumSupport
+ 
+ 
+ 
+Sta n d : Fe b rua r 2 02 4
+ 
+Se i te : 
+4
+ 
+2.3
+ 
+Ab kürzungs verzei chnis
+ 
+FAQ
+ 
+Frequent ly AskedQ uest ions
+,  also häuf ig g est ellt e Frag en 
+ 
+GK
+ 
+G r oßk unde
+ 
+G KS
+ 
+G r oßk undenschnit tst elle
+ 
+KBA
+ 
+Kr af tf ahrt
+-
+Bundesamt
+ 
+L1
+ 
+Fir st  Level Support  
+( hier: 
+einesG r oßk unde
+n)
+ 
+O ZG
+-
+DL
+ 
+O ZG
+-
+Dienst leist er des Landes B
+aden
+-
+W ürt t em ber g
+ 
+O ZG
+-
+DL
+-
+L2
+ 
+Second Level Suppor t  des 
+O ZG
+-
+Dienst leist er
+s
+ 
+des Landes B
+aden
+-
+W ürtt em berg
+ 
+O ZG
+-
+DL
+-
+L3
+ 
+T hir d Level Suppor t des 
+O ZG
+-
+Dienst leist er
+s
+ 
+desLandes B
+aden
+-
+W ürt t em berg
+ 
+P
+-
+L2
+ 
+Second Level Suppor t  
+des Sof t wareherst ellers,  dessen Prüf m odul
+ 
+im  
+j eweilig en 
+i
+-
+Kf z
+-
+Port al zum 
+Einsat z k om mt 
+ 
+P
+-
+L3
+ 
+T hir d 
+Level Suppor t  
+desSoft wareherst ellers,  dessen Pr üf m odul
+ 
+im  
+j eweili g en 
+i
+-
+Kf z
+-
+Port al zum 
+Einsat z kommt
+ 
+SDÜ
+ 
+St anda
+r dsf ür  die Dat enüber m itt lung
+ 
+SDÜ
+-
+G KS
+ 
+St andar dsf ür  die Dat enüber m itt lung  an die Gr oßkundenschnit t st elle
+ 
+VB
+ 
+Verf ahr ensbetr euung
+ 
+ZFZR
+ 
+Zentr ales Fahr zeugreg ister
+ 
+ZulB
+ 
+Zulassung sbehör de/
+-
+n
+ 
+ 
+ 
+
+Fe s tle gunge n zumSupport
+ 
+ 
+ 
+Sta n d : 
+Fe b rua r 2 02 4
+ 
+Se i te : 
+5
+ 
+ 
+3
+ 
+E inle itung
+ 
+Die Zulassung von Fahrzeug en 
+ist auf grund der Viel zahl von Voraussetzung en,  bet eilig t en I nst i-
+t utionenundder  
+Vielf altan 
+unt erschiedlichenSachverhalt en( Fahrzeug en, Vorschr if t en,etc. )  
+ein 
+sehr  
+k om plexe
+s
+ 
+Verwalt ung
+s
+vorg ehen
+.Esist davonauszug ehen,dassnichtj eder 
+überdie 
+Gr oß-
+k undenschnit t st elle 
+(
+G KS
+)
+ 
+bearbeit et e Vorg ang allg emein verst ändlich ist .  Daher  
+sind
+ 
+Sup-
+por t st r ukt ur
+en
+ 
+zu etablieren,  die de
+n
+ 
+Gr oßk unden (
+GK
+)
+ 
+f achlich bei der 
+k orr ek t en 
+Ant r ag st ellung 
+unt erst ütz
+en
+.
+ 
+I n diese
+n
+ 
+sind auch 
+t echnische 
+Pr obleme 
+und Frag est ell
+ung en
+ 
+zu ber ück sicht ig en
+.
+ 
+
+ 
+Das vorlieg ende Dok ument  r eg elt
+ 
+daher
+ 
+die 
+Verant wort lichk eit en
+,  Verpf lichtung en
+ 
+und Komm u-
+nik ationsst r ukt ur en
+ 
+zwis chen den
+ 
+bet
+eilig t en 
+Ak teur e
+n,
+ 
+um  
+konsist ent e und ef f izient e Support-
+dienst leist ung en
+ 
+f ürr eg ist r iert e 
+GK
+ 
+zug ewähr leisten
+ 
+beig leichzeit ig erSicher st ellung der Ver hält -
+nism äßigk eit 
+der  dadurch anf allenden
+ 
+Auf wände
+ 
+bei den Suppor t einheit en
+.
+ 
+Es g ilt als m itg elt en-
+desDok um ent zuden 
+St andar dsf ür die 
+Datenüber m itt lungandieGr oßk undenschnit t st elle( SDÜ
+-
+G KS) sowohl 
+f ür  dieG K
+ 
+( undm it t elbar  der en Dienstleist er)  
+als auchf ür
+ 
+die
+ 
+i
+-
+Kf z
+-
+Port al
+e
+.
+ 
+ 
+I nf or m at ions
+-
+ 
+und Unter st ützung s
+bedarf e
+ 
+bezüg lich
+ 
+Reg istr ierung
+ 
+sowie
+ 
+zur
+ 
+Aut orisierung wäh-
+r
+end der
+ 
+Nutzung  der  GKS sind von den hier beschriebenen Fest leg ungen ausg enomm en.
+ 
+Für 
+solche Anf r ag en ist die Anwender bet r euung
+ 
+G KS
+ 
+(
+gem.  
+Kap.  
+7. 4
+) zuk ont akt iere
+n.
+ 
+4
+ 
+Orga nis a tion
+ 
+Dieses Kapit el 
+soll einen Über blick über d
+ie Abläuf e der G KS und der  
+an der  G KS bet eilig t en 
+Akt eur e verm itt eln sowie  der en 
+j eweilig e 
+Rolle imKont ext  des Suppor
+ts
+ 
+def inieren.  
+ 
+Der G K versendet einen Antr ag an die G KS
+. 
+Diese st ellt zunächst  die k or r ekt e Aut hentisierung 
+sicher ,  bevor sie den Ant r ag  an 
+den 
+O ZG
+-
+Dienst leist er des Landes B
+aden
+-
+W ürtt emberg
+ 
+(
+O ZG
+-
+DL
+) weit erleit et.  
+DerO ZG
+-
+DL
+ 
+t r itt indiesem Kontext als 
+Di
+enst leist erdes 
+Kr af tf ahrt
+-
+Bundesamt
+es
+ 
+(
+KBA
+)
+ 
+auf . 
+DasPr üf modul 
+desO ZG
+-
+DL
+ 
+f ührteinefachlicheVorvalidierung desAntr ag sdurchund 
+m eldet et waig eEing abefehler 
+andieG KSzurück,welchediese 
+wiederum  
+synchr onandasG KS
+-
+Vorsyst em 
+beim  G K oder  bei dessen 
+IT
+-
+Dienst leist er 
+zurück
+m eldet
+. 
+Im  Anschluss an die e
+rf olg-
+r eicheVorvalidierung undErm it t lungderzuständig en 
+Zulassung sbehör de(
+ZulB
+)
+ 
+wir dderAntr ag 
+ent weder aut om atisiert  oder t eilaut omat isiert weit erverar beit et:  
+ 
+
+ 
+Autom at isiert
+: 
+Fallsnachder Er m it t lung der zuständig enZulBdaszug ehörig e 
+i
+-
+Kf z
+-
+Por t al 
+best imm twerdenk onnteundzurVerf üg ungst eht,  
+wir dder Ant r agüberdieG KSan 
+eben-
+dieses 
+zur eig ent lichen Pr üf ung  weit erg eleit et.  Dabei k om m uniziert  das
+ 
+Port al auch m it 
+ent spreche
+nden Fachverf ahr en der ZulB.  
+ 
+
+F
+e s tle gunge n zumSupport
+ 
+ 
+ 
+Sta n d : Fe b rua r 2 02 4
+ 
+Se i te : 
+6
+ 
+
+ 
+T eilaut omatisiert
+:  Falls nach der Erm it t lung  der  zuständig en ZulB k ein entsprechendes 
+i
+-
+Kf z
+-
+Port al best im mt werden k onnt e oder ein 
+i
+-
+Kf z
+-
+Port al, z.  B. aus t echnischen G r ünden, 
+vorr überg ehend nicht erreichbar ist, wir d der Antr
+ag über ander e Schnit t stellen des KBA 
+an die ZulB weit erg eleit et .  Da die Antr ag sprüf ung nun bei der ZulB nicht m ehr aut om ati-
+siert g epr üf t  wir d, ist  hier vom t eilaut om atisiert enVerf ahr en die Rede.  
+ 
+Die Darst ellung  des Syst emk ont ext es beschränkt sich auf  die von diesem  Dok um ent  umf assten 
+Syst eme
+
+ziert .
+ 
+ 
+Ab b ildu n g  
+1
+: 
+S yst emkon t ext
+ 
+d er G K S
+ 
+ 
+Aufgr u
+nd der  Vielzahl an  Akt eur en und Schnitt st ellen ist  eine k lare Abgrenzung  der  Zust ändig -
+k eit enj enachFrag est ellung imKont ext desSupport svonnöt en. Abbildung2bietet einengroben 
+Über blick über diese Zuordnung , welche in den f olg enden Abschnit t en dann im
+ 
+Detail beschr ie-
+ben wir d.
+ 
+ 
+Die Darst ellung  des Syst emk ont ext es beschränkt sich auf  die von diesem  Dok um ent  umf assten 
+ 
+2
+ 
+redu-
+ziert .
+ 
+ 
+ 
+
+Fe s tle gunge n zumSupport
+ 
+ 
+ 
+Sta n d : 
+Fe b rua r 2 02 4
+ 
+Se i te : 
+7
+ 
+ 
+ 
+Ab b ildu n g  
+2
+: 
+Su p p o rt
+-
+Ro l len
+ 
+im S ystem kon t ext  de r  G KS
+ 
+ 
+4.1
+ 
+Anw ender
+ 
+Mit  Anwender n sind alle Personeng em eint,  die beim G K diet atsächlicheAntr ag sst ellung im Zu-
+lassung spr ozessf achlichbearbeit en. Siebedienendabeinichtunm itt elbardieG KS,sonder nein 
+GK
+-
+spezif isches( bz
+w. ei nvondessenI T
+-
+Dienst leist erber eitg estellt es) Vorsyst em, welchesvom 
+KBA abg enom m en wurde.  
+ 
+4.2
+ 
+Fir st 
+Level
+ 
+Support
+ 
+( L1)
+ 
+Jeder G roßk unde hat 
+einen Support  zu et ablieren
+,  welcher  hier als Fir st Level Suppor t
+ 
+def iniert 
+wir d, unabhäng ig  von dessen t atsächl
+ichen Service
+-
+Level beim  G K 
+oder  bei
+ 
+dessen 
+IT
+-
+Dienst-
+leist er
+. Dieser
+ 
+Suppor t
+ 
+bear beit etundbeant wort et
+ 
+Anwender ndesG KS
+-
+Vorsyst emsund 
+dar über 
+hinaus allen ander enG K
+-
+inter nen Betr of f enen 
+f achliche und t echnische Frag est ellung en
+,  die 
+ 
+
+ 
+die 
+Bedienung  des 
+Syst em s, das die G KS anspricht
+ 
+( G KS
+-
+Vor syst em)
+, betr ef f en oder
+ 
+
+ 
+sich dur ch die vom KBA
+ 
+ber eitg estellt en Dok umente, FAQ,  
+W issensa
+rt ik el und I nf or m at i-
+onsschreiben
+ 
+g em äß Kap. 
+6
+ 
+beant wort en lassen.
+ 
+ 
+Der L1 ist  die einzig e Support einheit , dier eg elm äßig  dir ekt en Kont akt  zu den Anwender n hat . 
+ 
+
+F
+e s tle gunge n zumSupport
+ 
+ 
+ 
+Sta n d : Fe b rua r 2 02 4
+ 
+Se i te : 
+8
+ 
+Bedient  sich der G K f ür den Zug r if f  auf  die G KS eines t echnischen Dienst leist ers, k ann dieser 
+ebenf alls die Aufg aben des L1 in T eile
+n oder vollst ändig  übernehm en.
+ 
+Zwischen den Part eien 
+sind schr if t liche Vereinbarung en zu tr ef f en, die die Einhalt ung der vorlieg enden Fest leg ung en 
+sicher st ellen. Die Verantwort ung f ür d
+ies
+en Support verbleibt unabhäng igdavon beim  
+GK
+.
+ 
+ 
+Falls der  L1 eine Fr
+ag est ellung  nicht  eig enst ändig  beant wort en k ann,  kann dieser  sich an die 
+j eweil ig e nächst e Support instanz wenden. Die f ür  den vorlieg enden Ant r ag verant wort liche Sup-
+por t einheit k ann 
+der 
+zugehörig enRück m eldung (
+Fehlerm eldungbzw. Q uitt ung
+)
+ 
+ent n
+om
+m en
+ 
+wer-
+den
+.
+ 
+DieAnspr echp
+ersonen
+ 
+zuallg emeinen,d.h. ant r ag sunabhäng ig en, Frag est ellung en
+ 
+k önnen 
+sichj e nach Fall unt er scheiden und 
+anhand
+ 
+Kap. 
+4.3
+ 
+bis 
+4. 13
+ 
+abg eleit et
+ 
+werden
+. 
+D
+er L1 
+k ann im 
+eig enenErm essenf ürdie( Fehler
+-
+) Analysebenöt igteAn
+tr ag sdat en 
+andiej eweil ig ehöher eSup-
+por t instanz 
+überg eben. 
+DieseDatensindvondenEm pf äng ernvert r aulichzubehandeln,f allspe-
+zif isch zu nut zen und im Anschluss an die Analyse 
+umg ehend 
+zu löschen. 
+ 
+4.3
+ 
+Techni scher Support des G K
+ 
+Jeder G K hat  Suppor t st ruktu
+r enf ürt echnische Frag est ellung en,  sowohl f ür  dasj eweil ig e eig ene 
+Vorsyst emzurG KSalsauchf ürdieG K
+-
+seit ig et echnischeAnbindungzurGKSzuetablieren.Die 
+k onkr eteorg anisator ischeHandhabung undAbgrenzung der inKap.  
+4. 1
+ 
+undhierg enanntenRol-
+len oblieg t  dem G K
+,  auch im  Hinblick auf  den Einsat z eines t echnischen Dienst leist er
+s f ür  die 
+Nutzung  der G KS. 
+ 
+4.4
+ 
+Second Level Support
+ 
+des 
+O ZG
+-
+Di enstl eis
+t er
+s
+ 
+des Landes B
+aden
+-
+Württ emberg
+ 
+(
+O ZG
+-
+DL
+-
+L2)
+ 
+DerO ZG
+-
+DL
+ 
+st elltdem 
+L1 
+desG K 
+einen
+ 
+f achlichenSecondLevelSuppor t
+ 
+zurBeantwort ung  
+von 
+Frag estellung en zur Vorval idierung
+ 
+von
+ 
+Antr äg e
+n
+ 
+zur Verf üg ung
+.  Dieser bearbeit et  und beant-
+wort et 
+also 
+f achliche 
+Fr ag est ellung en
+ 
+zu Zulassung svorg äng en
+, welche die Vorvalid ie
+r ung  von 
+Antr äg en 
+bei 
+dem O ZG
+-
+DL
+ 
+bet r ef f en
+.
+ 
+Bei Fehlern in der Vorvalidierung  würde f olg lich das Feld 
+
+O ZG
+-
+DL
+-
+L2verweisen.  
+DieEr r eich-
+b
+ark eit en und Kont akt dat en des 
+O ZG
+-
+DL
+-
+L2 lassen sich Kap.  
+7. 1
+ 
+ent nehm en.
+ 
+Der 
+O ZG
+-
+DL
+-
+L2 
+ist  dar über  hinaus 
+wichtig er  Zulief erer  
+f ür dasW issensm anag em ent
+ 
+derG KS (sie
+he Kap.
+ 
+6.3
+)
+. 
+ 
+DerO ZG
+-
+DL
+ 
+st ellt  
+sicher,  dass die daf ür benöt ig ten 
+R
+essour
+c
+e
+n
+ 
+und 
+Systeme( z.  B. zur Einsicht 
+in Antr ag sdat en
+ 
+zur Fehleranalyse
+)
+ 
+zur Verf üg ung st ehen.
+ 
+4.5
+ 
+Second Level Support 
+eines
+ 
+i
+-
+Kfz
+-
+Por
+t al
+s
+ 
+(
+P
+-
+L
+2)
+ 
+Die 
+Herst eller der Anwe ndung ssof t ware de
+r
+ 
+i
+-
+Kf z
+-
+Port al
+e
+ 
+( d. h. nicht 
+die
+ 
+i
+-
+Kf z
+-
+Port al
+b
+et r eiber) 
+st ellen dem L1
+ 
+analog
+ 
+z
+u 
+Kap. 
+4. 4
+ 
+ebenf alls 
+j eweils 
+einen f achlichen Second Level Support zur 
+
+Fe s tle gunge n zumSupport
+ 
+ 
+ 
+Sta n d : 
+Fe b rua r 2 02 4
+ 
+Se i te : 
+9
+ 
+ 
+Verf üg ung . 
+Dieser bear beit et und beant wort et 
+f achliche Frag est ellung en zu Zulassung svorg än-
+g en,  
+welche
+ 
+im Rahm en der  Ant r ag spr üf ung 
+in einem
+ 
+i
+-
+Kf z
+-
+Port al
+ 
+m it
+ 
+der  eig enen 
+Anwendung s-
+sof t ware
+ 
+in Berührungk am
+. 
+ 
+ 
+denSuppor t desj eweil ig en 
+H
+erst eller
+s
+ 
+der Anwen-
+der sof t ware 
+verweisen.
+ 
+AnhanddiesesVerweises 
+k önnen 
+dann 
+Kont akt datenundEr r eichbarkei-
+t en 
+dem
+ 
+Ver zeichnis 
+f ür Suppor t einheit en
+ 
+der 
+G KS
+ 
+ent nomm enwerden
+, welchesim Rahm ender 
+inKap.
+ 
+6
+.
+ 
+b
+eschr iebenen 
+Plattf orm
+ 
+zurVerf üg ungg est ellt wir d
+.
+ 
+D
+ieseI nf orm ation 
+ist  
+alsonicht im 
+vorlieg endenDok um ent ent halt en.
+ 
+Die 
+P
+-
+L
+2m üssenihreAnspr ech
+p
+erson
+ 
+g rundsät zlich 
+bedarf s-
+g er echt
+ 
+zur Verf üg ung  
+stehen
+, m indestens jedoch von Mont ag  bis Fr eit ag9
+: 00
+ 
+bis 16
+: 00
+ 
+Uhr.
+ 
+Die 
+P
+-
+L
+2k önnenebenf allsZulief er erf ürdasW issensmanag em ent der G KS( sieheKap.
+ 
+6.3
+) sein, 
+m it
+ 
+der Einschr änk ung
+,
+ 
+dass diese I nf orm at ionen da
+nn nur f ür 
+die
+ 
+eig en
+e
+n 
+Pr oduk t e 
+g elt en.  
+Das 
+KBA übernimm tf ür  solche
+ 
+W issensar t ik el, FAQ setc. 
+inhalt lich 
+k eine Verantwort ung.
+ 
+ 
+Jeder 
+Herst eller 
+von
+ 
+Anwendung ssof t ware de
+r
+ 
+i
+-
+Kf z
+-
+Port al
+e
+ 
+m uss sicher st ellen,  dass seinem 
+P
+-
+L
+2 die f ür  die g enannt en Suppor t akt i
+vit äten 
+benötig t en Ressourcen und Syst eme ( z. B.  zur Ein-
+sicht in Ant r ag sdat en zur Fehleranalyse) zur Verfüg ung st ehen.
+ 
+ 
+Fehler,  die bei der Komm unik at ion zwischen 
+i
+-
+Kf z
+-
+Por t al
+en
+ 
+und Fachverf ahr en der j eweilig en 
+ZulB anf allen
+,
+ 
+sind 
+außerhalb des Umf angs des
+ 
+vorlieg enden Dok ument s und zwischen den be-
+t r of f enen Ak t eur en zu r eg eln.
+ 
+ 
+4.6
+ 
+Zuständi ge Verf ahrensbet reuung des KB A ( V B)
+ 
+Die Verf ahr ensbet r euung  des zent r alen Fahrzeug reg ist ers ( ZFZR)  beim  KBA verant wort et f ach-
+lichdieG KS, betr eut daszent r aleW issensmanagem
+ent der G KS( vg l. Kap.
+ 
+6
+) undk oor diniert bei 
+Bedarf  im  Rahm en von Fehleranalysen und 
+-
+k orrektur en zwischen den ve r schiedenen Ak t eur en 
+g em äß Kap.
+ 
+4. 7
+,
+ 
+4.8
+ 
+und 
+4.9
+. 
+ 
+DarüberhinausistdieVBauchAnspr echp
+er sonen
+ 
+f ürEing ang sakt ivit ätenderG KSvorderW ei-
+t erleit ungeinesAnt r agsan 
+denOZG
+-
+DL
+.Sollt enber eit sindiesemerst enSchrittFehlerauf tr eten, 
+so verweist  das Feld Suppor
+t einheit  in der Fehlerm eldung bzw.  Q uit t ung also auf  die VB als An-
+sprechp
+erson
+ 
+f ür  den L1.  Die Err eichbark eit en und Kont akt dat en der  VB lassen sich in Kap.  
+7. 3
+ 
+f inden.
+ 
+4.7
+ 
+Thir d Level Support  
+des 
+O ZG
+-
+Di enstl ei ster
+s
+ 
+des Landes B
+aden
+-
+Württemberg
+ 
+( K1
+-
+L3)  
+ 
+Sollt enim Rahm ender Tät igk eit endes 
+O ZG
+-
+DL
+-
+L2
+ 
+Frag estellung enauf
+ 
+Fehlerinder Antr agsva-
+lidierung
+ 
+bei 
+dem O ZG
+-
+DL
+ 
+(
+also 
+z.  B.
+ 
+auf
+ 
+Log ikf ehler)  
+zurückg ef ühr t  werden, invol viert  der  
+O ZG
+-
+
+F
+e s tle gunge n zumSupport
+ 
+ 
+ 
+Sta n d : Fe b rua r 2 02 4
+ 
+Se i te : 
+10
+ 
+DL
+-
+L2 d
+en 
+O ZG
+-
+DL
+-
+L3. 
+Dieser  k oor diniert alle f ür  die Fehler
+analyse und 
+-
+behebung benöt ig t en 
+Akt ivit äten 
+bei 
+dem O ZG
+-
+DL
+ 
+und involviert  bei Bedarf  
+das KBA
+ 
+in Form der
+ 
+VB
+. 
+Dar über hinaus 
+ist  der 
+O ZG
+-
+DL
+-
+L3 
+auch in geg en
+g eset zt er Richtung Anspr echp
+erson
+ 
+f ür 
+die VB
+. 
+Die 
+k
+onkr et
+e 
+org anisator ischeHandhabung
+ 
+undAbgrenzung
+ 
+der inKap. 
+4.4
+ 
+undhierg enanntenRollenobliegt 
+dem O ZG
+-
+DL
+. 
+ 
+4.8
+ 
+Thir d Level Support eines 
+i
+-
+Kf z
+-
+Port al s(
+P
+-
+L
+3)
+ 
+Analog  zu Kap.  
+4.7
+ 
+st ellt der  
+P
+-
+L
+3 die nächst höhere I nst anz zum 
+P
+-
+L
+2 dar .  Sollt en im  Rahm en 
+der T ätigk eit endes 
+P
+-
+L
+2Frag estellung enauf Fehlerinder Ant r ag spr üf ung  
+inder vomi
+-
+Kf z
+-
+Por t al
+ 
+g enut zt en 
+Anwendung ssof t ware
+ 
+( also z.  B. auf  Log ikf ehler ) zurückg ef ühr
+t werden, involviert  der 
+P
+-
+L
+2den 
+P
+-
+L
+3. Dieser koordiniert allef ür dieFehler analyseund 
+-
+behebung benöt igtenAkt ivit äten 
+beim  
+i
+-
+Kf z
+-
+Por t al
+betr eiber  
+( z. B. das dor t ig e Einspielen der k orr ig iert en Sof t wareversionen)
+. Die 
+k onkr ete org anisator ische Handhabung  und Abg renzung  
+des P
+-
+L3 zum P
+-
+L2 (
+Kap. 
+4.5
+) 
+obliegt 
+dem  
+Herst eller der Anwe ndung ssof t ware der  i
+-
+Kf z
+-
+Port
+ale
+.
+ 
+ 
+4.9
+ 
+Zul assungsbehörde
+ 
+( ZulB)
+ 
+Die Entscheidung über die Zulassung wir d dur ch die zuständig e Zulassung sbehör de g et r of f en 
+und k ann nur  dur ch diese vert r et en werden
+, auch wenn die
+se
+ 
+Entscheidung  aut om atisiert  
+dur ch 
+ein
+ 
+i
+-
+Kf z
+-
+Port al 
+her beig ef ühr t wurde
+. 
+ 
+Soba
+ld zu einem  Antrag
+ 
+ein Bescheid
+ 
+vorlieg t 
+
+ 
+unabhäng ig  davon, ob es sich um einen Zulas-
+sung s
+-
+ 
+oder Ablehnung sbescheidhandelt  
+
+ 
+ist d
+i
+eAnspr echpar t ner
+in
+ 
+f ür denG Kbzw. dessenL1 
+die j eweilig e ZulB.  W elche dies ist und der en Kont ak t dat en lassen sich dem  Be
+scheid ent neh-
+m en. Für solche Fälle kann ein G K bzw.  der  L1 nicht ( dir ekt)  auf  die anderen Support einheit en 
+zug ehen.  
+ 
+Falls sich im  Rahm en der  Komm unik ation 
+zwischen G K und 
+ZulB her ausst ellt ,  dass ein Antr ag 
+f ehlerhaf tg epr üf twurde,wir ddie
+ 
+ZulB
+ 
+sichan 
+d
+ieAnspr echp
+erson
+ 
+ihres
+ 
+i
+-
+Kf z
+-
+Port al
+s
+ 
+wenden
+.
+ 
+I n 
+der  weit eren Fehleranalyse k ann sich dieser dann bei 
+Bedarf  an die VB
+ 
+beim
+ 
+KBA
+ 
+wenden, wel-
+che wiederum  bei Bedarf  weit ere KBA
+-
+Abteilung en und/oder 
+der O ZG
+-
+DL
+ 
+invol viert .  Diese Kom-
+m unik at ionsk et t e soll eine lück enlose Einbindung der betr of f enen Akt eur e g ewähr leist en und ist 
+f ür solche Fälleg r undsätzl ich imm er  einzuhalt en.  
+ 
+Für  Fälle, bei denen eine aut omat isiert e W eit er leit ung  des Antr ag s von der  G KS an 
+das i
+-
+Kf z
+-
+Port al
+ 
+nicht m ög lich war und der Antr ag 
+som it  
+nur t eilaut om atisiert  bzw.  m anuell bei der  ZulB 
+
+Fe s tle gunge n zumSupport
+ 
+ 
+ 
+Sta n d : 
+Fe b rua r 2 02 4
+ 
+Se i te : 
+11
+ 
+ 
+bearbeit en werden k ann
+,
+ 
+g ilt:  Rückf r ag en zum Bearbeit ung sst atus und zur Zulassungsent schei-
+dung sindnachW eit erleitung der Ant r äg edur chdieG KSandiezustän
+dig eZulBzur ichten.  
+Hier-
+f ürg ibt dieG KS die Angaben der zuständig en ZulB 
+in der Q uitt ung  an
+.
+ 
+4.10
+ 
+Techni scher Support 
+des KB A
+ 
+I m Falle t ech
+nischer Pr obleme,  die auf  das KBA zurück zuf ühr en sind,  kann der  t echnische Sup-
+por t desKBA
+ 
+k ont akt iert werden.Diesist
+ 
+der Fall,wenndieG KSbeispiels we isek eineRückm el-
+dung eng ibtodert echnischeVerbindungspr oblemebest ehen. DieEr r eichbark eit enundKont ak t-
+dat en des 
+t echnischen Suppor t s 
+des KBA lassensich in Kap. 
+7.5
+ 
+f inden. 
+ 
+4.11
+ 
+Techni scher Support de
+r
+ 
+i
+-
+Kf z
+-
+Port al betrei ber
+ 
+D
+ie i
+-
+Kf z
+-
+Port albet r eiber
+ 
+( d. h. nicht  die 
+Herst eller der Anwendung ssof tware der  i
+-
+Kf z
+-
+Port ale
+) 
+m üssen 
+dent echnischen Suppor tf ür Fehler in denk onk r et en I nst anzen der bei ihnen im  Bet r ieb 
+bef indlichen i
+-
+Kf z
+-
+Port ale sicher st ellen.  
+ 
+DieseSuppor t einheit enm üssenihreAnspr ech
+p
+er sonen
+ 
+g r undsätzlichbedarf sg er echt
+ 
+zurVerf ü-
+g ung 
+st ehen
+. 
+Jeder 
+i
+-
+Kf z
+-
+Port albet r e
+iber
+ 
+m uss sicher st ellen, dass 
+diesen
+ 
+die f ür  die g enannten 
+Suppor t akt ivit äten 
+benöt igten Ressour cen und Syst eme zur Verf üg ung st ehen.
+ 
+ 
+4.12
+ 
+Anw enderbetreuung
+ 
+GKS
+ 
+des KB A
+ 
+W ie ber eit s in der  Einleit ung 
+erwähnt,
+ 
+ist  die Anwender betr euung
+ 
+G KS
+ 
+des KBA Anspr echpar t-
+ne
+r
+in
+ 
+f ür  säm t liche Fr agest ellung en 
+von G K 
+zur 
+Reg istr ierung  zur
+ 
+G KS
+ 
+sowie 
+zur 
+Autor isierung 
+währ end der  Nutzung  der  G KS
+. Hierbei ist unerheblich, ob sich ein Anwender  des G KS
+-
+Vorsys-
+t ems
+ 
+aus der Fachabteilung  des G K
+ 
+oder  
+der  L1 sich an die Anwender bet r euung
+ 
+G KS
+ 
+wendet . 
+Für solcheFr ag est ellungeng elt enalsodie 
+Fest leg ung enimvorlieg endenDok um ent 
+nicht
+, 
+dasie 
+nicht 
+innerhalbder hierdef iniert enSupport st r ukt ur  
+g ehandhabt werden. 
+DieEr r eichbark eit enund 
+Kont ak t dat en
+ 
+der  Anwender betr euung  
+G KS 
+desKBA 
+lassen sich der  Vollst ändigkeit  halber  
+den-
+noch 
+in Kap. 
+7.4
+ 
+f inden.  
+ 
+4.13
+ 
+Ab grenzungen i m Überbli ck
+ 
+Bei der  Zust ändigkeit sf indung 
+zu 
+Frag estellung
+en
+ 
+ist  
+g
+r undsät zlich 
+auf  f olg ende inhalt liche Ab-
+g renzung
+en
+ 
+zu acht en:
+ 
+
+ 
+Anfr ag en zum Funkt ionsumf ang  des 
+G KS
+-
+Vorsyst ems
+ 
+und etwaig en Fehlern dar in sind 
+innerhalb der  Suppor t st ruktur en desG K bzw.  dessen Dienst leist er  zuk lären.  
+ 
+
+F
+e s tle gunge n zumSupport
+ 
+ 
+ 
+Sta n d : Fe b rua r 2 02 4
+ 
+Se i te : 
+12
+ 
+
+ 
+Neue Anf order ung en
+ 
+an die G KS sind eb
+enf alls 
+nicht über  die beschrieben
+en
+ 
+Sup-
+por t st r ukt uren,  sonder n in 
+dediziert en Nutzerg ruppen (f ür  G K)  bzw.  
+im  
+Ar beit sk r eis 
+f ür 
+aut omat isiert e Dat enverar beit ung
+ 
+im  Zulassungswesen
+ 
+( f ür  
+i
+-
+Kf z
+-
+Port al
+e
+,  Fachverf ahr en 
+und 
+ZulB)  in Abst imm ung m it der 
+VB
+ 
+einzubr i
+ng en.
+ 
+ 
+
+ 
+BeiAnlieg enzur 
+Reg ist r ierung zurNutzungder GKS
+ 
+wenden
+ 
+sich 
+GK
+ 
+bzw. dessenDienst-
+leist er an die Anwender bet r euung
+ 
+G KS
+. 
+ 
+
+ 
+Anfr ag en die vom 
+L1
+ 
+selbst g elös
+t  und verant wort e
+t
+ 
+werden k önnen,  z.
+ 
+B. anhand veröf -
+f ent lichter W issensart ik el und FAQ s
+, sind nicht  an 
+O ZG
+-
+DL
+-
+L2 oder  
+P
+-
+L
+2 zur r icht en. 
+ 
+
+ 
+Bei r ein 
+t echnischen Pr oblemen
+,  die nicht dur ch den L1 
+oder den t echnischen Suppor t 
+des G K 
+zu vert r et en sind,  
+st eht der ext erne Benutzerser vice des KBA zurVerf üg ung
+.
+ 
+
+ 
+Für  Rückf r ag en zu 
+Ent scheidung en der Zu
+lassung sbehör den
+ 
+und 
+Bescheiden
+ 
+sind die 
+Anspr echp
+ersonen
+ 
+derjewe ilig en ZulB zu k ont akt ieren.
+ 
+5
+ 
+Fe s tle gunge n zur 
+Kommunik a tion
+ 
+ 
+5.1
+ 
+Sprache
+ 
+Um  eine mög lichst r eibung slose Komm unik ation zu g ewähr lei
+s
+t en, k om munizieren d
+ie in Kap. 
+4.2
+ 
+bis
+ 
+4.12
+ 
+beschr ieben
+en
+ 
+Akt eur e m it einander  aus
+schließlich in deutscher  Sprac
+he
+. 
+Die Kom-
+m unik at ionzwischen 
+An wender nundL1k ann
+ 
+ineiner zwischendenbeidenAkt eur eng ewählt en 
+Sprache erf olg en.
+ 
+5.2
+ 
+K
+ont akt
+medi um
+ 
+D
+er 
+L1
+ 
+k ont akt ier
+t
+ 
+die
+ 
+j ewe ilig en 
+Anspr echp
+er sonen
+ 
+g r undsät zlich g em äß den 
+in Kap. 
+7
+ 
+bzw.  
+im 
+Verzeichnis f ür  Support einheit en der  G KS
+ 
+(
+siehe 
+Kap.  
+6.2
+) 
+zur Verf üg ung  g e
+st ellt en Kont akt
+da-
+t en
+, 
+Hinweisen
+ 
+und Formularen.
+ 
+ 
+5.3
+ 
+Spei cherung von Kontakt i nf ormat i onen
+ 
+G eben Mit arbeit ende 
+des KBA Kont akt inf or m at ionen 
+her aus
+, die über 
+die 
+g em äß
+ 
+Kap.
+ 
+5. 2
+ 
+veröf -
+f ent lichen Dat en hinausgehen,  
+und 
+bitt et  um Rückr uf  oder  eine dir ekt e Nachr icht,  g ilt diese Auf -
+f order ung  
+nur  
+f ür den betr of f enen Einzelf all.  Die Kont ak t inf orm ationen 
+dürf en nicht dauer ha
+f tg e-
+speicher t 
+und/oder  weit ergeg eben 
+werden.
+ 
+ 
+
+Fe s tle gunge n zumSupport
+ 
+ 
+ 
+Sta n d : 
+Fe b rua r 2 02 4
+ 
+Se i te : 
+13
+ 
+ 
+Diese
+ 
+Maßg abe
+ 
+g ilt  
+grundsät zlich 
+auch 
+f ür  der art ig e 
+( Suppor t
+-
+) 
+Kont akt i
+nf orm at ion
+ 
+von G K,  
+dem 
+O ZG
+-
+DL
+, 
+Dienst leist ern
+ 
+des G K
+ 
+und 
+den Herst ellern 
+von
+ 
+Anwendung ssof tware 
+der
+ 
+i
+-
+Kf z
+-
+P
+ort al
+e,
+ 
+es sei denn
+,
+ 
+es wurde zwischen deng enannt enPart eien ander weit ig es vereinbart.
+ 
+ 
+5.4
+ 
+Personenbezogene An gaben
+ 
+Personenbezog ene oder per sonenbeziehbar e Daten dürf en 
+zwischen den Ak t eur en nur  dann 
+ausg et auscht werden,insof erndiesef üreineFehleranalyseund/oder 
+-
+behebung
+ 
+not wendig
+ 
+sind 
+und 
+vom Em pf äng er 
+nur f ür diesen Zeitr aumg espeicher t  werden. 
+ 
+6
+ 
+Informa tionsma na geme nt
+ 
+Das KBA st ellt  den bet eilig t en Support einheit en I nf or m at ionen über g eeig net e Plattf or m
+en
+ 
+zur 
+Verf üg ung . Diese beinhalt e
+n
+ 
+die in
+ 
+6.1
+ 
+bis 
+6. 3
+ 
+g enannt en I nhalt e. Konkr ete Zugrif f spf ade,  Zu-
+g ang sdat en und weit ere I
+nf or mationen 
+werden
+ 
+den Beteilig t en über die Reg istr ierung sanwen-
+dung,  die Self
+-
+Service
+-
+Port ale
+1
+ 
+oder per  E
+-
+Mail zu r  Verf üg ung gest ellt.  
+ 
+6.1
+ 
+Support  
+F AQ
+ 
+D
+ie VB 
+erst ellt und pf legt 
+kont inuierlich 
+eine Über sicht von häuf ig g est ellten Frag en ( FAQ)
+, die 
+die 
+Antr ag svalidierung und Zulassung svorgäng e der G KS betr ef f en
+. 
+Die Support einheit en bei 
+dem O ZG
+-
+DL
+ 
+undden 
+i
+-
+Kf z
+-
+Port alen
+ 
+k önnenauf g rundihrerErf ahr ung enim oper ativenT ag esg e-
+schäf t hierf ür  Em pf ehlung en zulief er n. 
+Die W eit erg abe der  FAQ
+ 
+innerhalb der  O rg an
+isation des 
+G Kbzw. dessenDienst leist er,
+ 
+z. B. 
+andieAnwender desG KS
+-
+Vor syst ems,
+ 
+istexplizit erwünscht. 
+ 
+6.2
+ 
+Verzei chnis der Support einhei t enG KS
+ 
+DurchdieDezent r alit ätderevent uellenAnspr echp
+ersonen
+ 
+f ür Suppor t anlieg en
+ 
+st ellt dasKBAein
+ 
+ent sprechendes 
+Ver zeichnis m it Kont akt inf or m at ionen,  Err eichbark eit szeit en und weit eren Hin-
+we isen 
+auf  der I nf or mationsplattf orm
+ 
+zur Verf üg ung.
+ 
+ 
+Die 
+Kont aktdat en und Err eichbark eit en der  
+Support einheit en g em äß Kap. 
+4.5
+ 
+(P
+-
+L2)  
+sowie Kap. 
+4.11
+ 
+(t echnischer Suppor t i
+-
+Kf z
+-
+Port albetr eiber )
+ 
+sind von den 
+Bet eilig t en
+ 
+mit t els
+ 
+der en
+ 
+ELST ER
+-
+                                        
+       
+ 
+1
+ 
+Die Bere its te ll ung des  Self
+-
+Serv ic e
+-
+Port als  erf olg t zu ein em  s päteren Zei tpu nk t. Bis  d ahi n s i ndW ar-
+tungs l eis tu nge n, Störu nge n  oder Änd erun gen per  E
+-
+M ail  an 
+gk s
+-
+anwen der b etreu ung @k ba.de
+ 
+zu m elde n.
+ 
+
+F
+e s tle gunge n zumSupport
+ 
+ 
+ 
+Sta n d : Fe b rua r 2 02 4
+ 
+Se i te : 
+14
+ 
+Unter nehm ensk ont
+en
+ 
+in
+ 
+einem  Self
+-
+Ser vice
+-
+Port al
+2
+ 
+des KBA oder,  sof er n kein ELST ER
+-
+O rg ani-
+sationszert if
+ik at 
+vorliegt
+, per E
+-
+Mail 
+an das KBA (siehe Kapit el 
+7.4
+) 
+vorzuleg en und ak t uell zu 
+halt en
+. 
+ 
+6.3
+ 
+Wi ssens
+dat enbank
+ 
+und 
+w ei t ere 
+Dokument ation
+ 
+Die VB er st ellt und pf legt k
+ont inuierlich 
+W issensar t ik el
+ 
+und Dok um ent ation
+,  die de
+n Anwender n 
+und de
+m 
+L1
+ 
+als I nf orm ationsq uelle dienen.  
+Es ist ebenso vorg esehen,  dass f ür  die Suppor t ein-
+heit envon 
+dem O ZG
+-
+DL
+ 
+unddeni
+-
+Kf z
+-
+P
+ort alen
+ 
+beiBedarf  
+separ ateBereichebest ehen, um dem 
+L1 spezif ische W issensart ik el und Dok ument ationen zur Verf üg ung  zu st ellen.  Die I nhalt e f ür 
+diese Bereiche werden dem  KBA von 
+dem  O ZG
+-
+DL
+ 
+bzw.  den i
+-
+Kf z
+-
+P
+ort alanbieter n
+ 
+zug elief ert. 
+Der 
+L1
+ 
+k ann Hinweise zu not wendig en Ak t u
+alisier ung en, Korr ek turen oder  Unverst ändlichk eit en 
+m elden.
+ 
+6.4
+ 
+I nformati onsgebot
+ 
+Der 
+L1
+ 
+hat sich r egelm äßig  über Neuerung en in den oben g enannt en 
+I nf orm ationsq uellen zu 
+inf or m ieren.Neueoder  
+g
+eändert eI nf orm ationengelt enspät estenseineW ochenachVeröf f ent
+li-
+chung als bek annt und sind dur ch den 
+L1
+ 
+zu vertr ete
+n.
+ 
+Diese Maßg abe 
+g ilt
+ 
+nur f ür  
+von der
+ 
+VB 
+und von 
+dem O ZG
+-
+DL
+ 
+veröf f ent lichte 
+I nf orm ationen.
+ 
+ 
+6.5
+ 
+I nformati onsschrei ben
+ 
+Bei dring endem  I nf orm ationsbedarf , z. B.  
+a
+uf grund von Neuerung en oder  Fehlerhäuf ung en, sen-
+det  
+das KBA
+ 
+ein I nf orm ationsschreiben
+ 
+per 
+E
+-
+Mail
+ 
+an 
+die
+ 
+vom 
+GK
+ 
+bzw.  dessen Dienst leist er be-
+nannt enAnspr echp
+er son
+en
+.
+ 
+Der 
+L1
+ 
+st ellt sicher, dassdiesesvonallen 
+Mit a r beit endenim  
+Suppor t 
+unverzüg lich, 
+vollst ändig  g elesen wir d.
+ 
+Ein solches I nf orm ationsschreiben k ann auch dur ch 
+den 
+O ZG
+-
+DL
+ 
+oder  die 
+i
+-
+Kf z
+-
+Port al
+e
+ 
+er bet en werden. 
+ 
+ 
+ 
+7
+ 
+E rre ic hba rk eit
+en
+ 
+und Konta k tda ten 
+ 
+7.1
+ 
+Err eichbarkei t
+ 
+des
+ 
+Second Level 
+Support s 
+des 
+O ZG
+-
+Di enstl eist er
+s
+ 
+des Landes 
+B
+aden
+-
+Würt t emberg
+ 
+(
+OZG
+-
+DL
+-
+L2)
+ 
+Der 
+O ZG
+-
+DL
+-
+L2
+ 
+ist
+ 
+                                        
+       
+ 
+2
+ 
+Die B
+ere its te ll ung des  Self
+-
+Serv ic e
+-
+Port als  erf olg t zu ein em  s päteren Zei tpu nk t. Bis  d ahi n s i ndW ar-
+tungs l eis tu nge n, Störu nge n  oder Änd erun gen per  E
+-
+M ail  an 
+gk s
+-
+anwen der b etreu ung @k ba.de
+ 
+zu m elde n.
+ 
+
+Fe s tle gunge n zumSupport
+ 
+ 
+ 
+Sta n d : 
+Fe b rua r 2 02 4
+ 
+Se i te : 
+15
+ 
+ 
+
+ 
+Mont ag  bis Donnerst ag von 8:00 bis 15: 00 Uhr,
+ 
+
+ 
+Freit ag s von 8: 00 bis 14:00 Uhr 
+ 
+besetzt .
+ 
+Ausg enomm ensindgesetzlicheFeiert age
+ 
+( in 
+Baden
+-
+W ürtt emberg
+) sowieder24. 12. und 
+der  31. 12. 
+eines 
+j eden Jahr es.
+ 
+T elef on:  
++49 7118108 
+45230
+ 
+E
+-
+Mai l:  
+ 
+suppor t. verk ehr swesen@k omm. one
+ 
+7.2
+ 
+Err eichbarkei t des Second Level Support s 
+eines
+ 
+i
+-
+Kf z
+-
+Port al
+s
+ 
+(
+P
+-
+L
+2)
+ 
+Die Er r eichbark eit en und Kont akt dat en de
+s
+ 
+j eweil
+s zuständig en
+ 
+P
+-
+L
+2 k önnen 
+dem 
+Verzeichnis 
+der  Support einheit en
+ 
+G KS
+ 
+( Kap.  
+6. 2
+)
+ 
+ent nomm en werden.W elche
+ 
+Support einheit  
+f ür  eine
+nk on-
+kr et vorlieg enden Antr ag zuständig ist, k ann der Fehlerm eldung bzw.  Q uitt ung  ent nom m en wer-
+den. 
+ 
+I m Rahm en
+ 
+der  Anm eldung  als Herst eller der  Anwendung ssof t ware der i
+-
+Kf z
+-
+Port ale
+ 
+zur T eil-
+nahmeamVerf ahr en
+ 
+m üssendie 
+Herst ellerder Anwendung ssof t warederi
+-
+Kf z
+-
+Port ale 
+demKBA 
+eine E
+-
+Mail
+-
+Adresse f ür ein Suppor t postf ach
+ 
+sowie eine Support
+-
+T elef onnumm er und opt ion
+al 
+überdieindiesem Dok um entf estg eleg t eMindester r eichbark eit hinausg ehendeEr r eichbark eit en
+ 
+m it t eilen. Diese 
+Daten sind 
+im  Self
+-
+Service
+-
+Port al
+3
+ 
+oder,  sof ern k ein ELSTER
+-
+O rg anisat ionszer-
+t if ikat 
+vorlieg t
+,  per  E
+-
+Mail  
+an das KBA (siehe Kapitel 
+7.4
+) 
+st et s ak t uell zu halt en
+. 
+ 
+7.3
+ 
+Err eichbarkei t der
+ 
+zuständigen
+ 
+Verf ahrensbetreuung 
+des
+ 
+KB A ( VB)
+ 
+Die Verf ahr ensbetr euung ZFZR ist innerhalb der Kernarbeit szeit  des KBA 
+besetzt
+.
+ 
+
+ 
+Mo
+ntag  bis 
+Donnerst ag
+ 
+9
+: 00 bis 
+15
+: 00 Uhr
+ 
+sowie  
+ 
+
+ 
+Fr
+eit ag s
+ 
+von 
+09
+: 00 bis 
+14
+: 00 Uhr
+ 
+Ausg enom m en sind g esetzliche Feiert ag e ( in Schleswig
+-
+Holst ein) sowi e der 24. 12. und der 
+31. 12. einesj eden Jahr es.  
+ 
+Der Er stk ont akt  soll seit ens L1, K1
+-
+L2 und 
+P
+-
+L
+2 ausschließl
+ich  via 
+E
+-
+Mail an die 
+Anwender bet r euung
+ 
+G KS
+ 
+( 7.4)  
+erf olg en.  Für  Anspr echp
+ersonen
+ 
+bei i
+-
+Kf z
+-
+Port ale
+n
+ 
+und K1 
+k önnen bei Bedarf  andere Reg elung en best im mt werden.
+ 
+                                        
+       
+ 
+3
+ 
+Die Bere its
+te ll ung des  Self
+-
+Serv ic e
+-
+Port als  erf olg t zu ein em  s päteren Zei tpu nk t. Bis  d ahi n s i ndW ar-
+tungs l eis tu nge n, Störu nge n  oder Änd erun gen per  E
+-
+M ail  an 
+gk s
+-
+anwen der b etreu ung @k ba.de
+ 
+zu m elde n.
+ 
+
+F
+e s tle gunge n zumSupport
+ 
+ 
+ 
+Sta n d : Fe b rua r 2 02 4
+ 
+Se i te : 
+16
+ 
+7.4
+ 
+Err eichbarkei t de
+r Anw enderbetr euung
+ 
+G KS
+ 
+Die Anwender bet r euung
+ 
+G KS
+ 
+ist
+ 
+
+ 
+Mont ag  bis 
+Donnerst ag von
+ 
+8:00 bis 15: 00 Uhr,
+ 
+
+ 
+Freit ag s von 8: 00 bis 14:00 Uhr besetzt .
+ 
+Ausg enom m en sind g esetzliche Feiert ag e ( in Schleswig
+-
+Holst ein) sowi e der 24. 12. und der 
+31. 12. eines 
+j eden Jahr es.
+ 
+T elef on:  
+0461 / 316
+-
+2269
+ 
+E
+-
+Mai l:  
+gks
+-
+anwender betr euung @k ba. de
+ 
+7.5
+ 
+Err eichbarkei t 
+des t echnischen Support s
+ 
+
+tz
+
+ 
+Der 
+t echnische Support
+ 
+des KBA ist
+ 
+
+ 
+Mont ag  bis 
+Donnerst ag von 
+06
+: 00 bis 
+19
+: 00 Uhr,
+ 
+
+ 
+Freit ag s von 
+06
+: 00 bis 
+18
+:
+3
+0 Uhr 
+ 
+besetzt .
+ 
+Ausg enomm en sind g esetzliche Feiert age ( in Schleswig
+-
+Holst ein) sowie der  24. 1
+2.  und 
+der  31. 12. einesj eden Jahr es.
+ 
+T el
+ef on
+:  0461
+ 
+/
+ 
+316
+-
+1400
+ 
+E
+-
+Mai l:  
+k ba
+-
+ser vicedesk@k ba. de
+ 
+Außerhalb 
+dieser Dienstzeit enist  
+eine 
+Ruf ber eit schaf t
+ 
+eing er ichtet ,welch et elef onischerr eichbar 
+ist .
+ 
+7.6
+ 
+Err eichbarkei t des 
+t
+echnische
+n
+ 
+Support
+s
+ 
+de
+r
+ 
+i
+-
+Kf z
+-
+Port al bet rei ber
+ 
+Die Er r eichbark eit en und Kont ak t dat en des j eweil s zuständig en 
+t echnischen Suppor t s der  i
+-
+Kf z
+-
+Port albetr eiber  
+k önnen 
+dem Ver zeichnis der  Suppor t einheit en G KS
+ 
+( Kap. 
+6.2
+)
+ 
+ent nomm en wer-
+den. 
+ 
+I m  Rahm en des Antr ag s auf  
+Zulassung
+ 
+zur T eilnahme am  Verf ahr en
+ 
+m üssen die 
+i
+-
+Kf z
+-
+Port al
+be-
+t r eiber
+ 
+dem KBA eine E
+-
+Ma il
+-
+Adresse f ür  ein Suppor t postf ach
+ 
+sowie eine Suppor
+t
+-
+T elef onnum-
+m erundoptionalüber dieindiesemDok um entf estg elegt eMindester r eichbark eithinausg ehende 
+Er r eichbark eit en
+ 
+m it t eilen. Diese 
+Dat en sind
+ 
+im Self
+-
+Service
+-
+Port al
+4
+ 
+oder, sof er n kein ELST ER
+-
+O rg anisat ionszert if ik at 
+vorlieg t
+, per E
+-
+Mai l 
+an das KBA( siehe Kapit el 
+7. 4
+) 
+st ets akt uell zu halt en
+.
+ 
+                                        
+       
+ 
+4
+ 
+Die Bere its te ll un
+g des  Self
+-
+Serv ic e
+-
+Port als  erf olg t zu ein em  s päteren Zei tpu nk t. Bis  d ahi n s i ndW ar-
+tungs l eis tu nge n, Störu nge n  oder Änd erun gen per  E
+-
+M ail  an 
+gk s
+-
+anwen der b etreu ung @k ba.de
+ 
+zu m elde n.
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impressum 
+ 
+ 
+Herausgeber
+:
+ 
+Kr af tf ahrt
+-
+Bundesamt
+ 
+24932 Flensburg
+ 
+ 
+I nter net:
+ 
+www. k ba. de
+ 
+ 
+ 
+Fachliche Ausk ünf t e und Berat ung:
+ 
+ 
+T elef on:
+ 
+0461 316
+-
+0
+ 
+T elef ax:
+ 
+0461 316
+-
+1650
+ 
+E
+-
+Mai l:  
+ 
+k ba@k ba. de
+ 
+ 
+ 
+Er schienen 
+im 
+Okt ober
+ 
+2023
+ 
+St and:
+ 
+Februar 
+20
+2
+4
+ 
+ 
+Dr uck :
+ 
+Dr uck zent r um KBA
+ 
+ 
+Bildq uelle:
+ 
+n.a.
+ 
+ 
+ 
+ 
+Al l e  Rec h te vo rb e ha l ten . Die Ve rvi e l fäl ti gu n g u n d  Ve rb rei tu ng d i es e r Ve rö ff e ntl ic h un g ,a u ch a u s zu gs we i s e  un d  in  
+d i g i ta l e rFo rm , is t nu r mi t Qu e lle n a n ga b e  
+g es ta tte t.  Die s  gi l tau c h , we n n  In h al te  di es e r Ve rö ffe n tli c hu n g  we i te rve r-
+b re i tet we rd e n , di e  nu r mi tt el ba r e rl an g t wu rd e n .
+ 
+ 
+© Kra ft fa h rt
+-
+Bu n de s am t, Fl e nsb u rg
+ 
+ 

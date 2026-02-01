@@ -1,0 +1,1312 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Authe ntifi zi er ung gegenü ber W eb
+-
+ 
+Serv ice s des KB A
+-
+Port al s
+ 
+St and 
+Ok t ober 2020
+ 
+Vers ion 2.
+8
+ 
+
+Au t he ntifizi e rung KBA
+-
+P or tal
+ 
+ 
+ 
+ 
+St and: 
+Okt ober
+ 
+2020
+ 
+ 
+Seit e: 
+1
+ 
+Version 2.
+7
+ 
+0
+ 
+Al lge me ine s
+ 
+0.1
+ 
+Al l gemei ne I nform at i on
+ 
+Dieses Handbuch ersetzt  die bisher ig e
+ 
+Version 2.
+7
+ 
+des Hand
+buchs " Aut hentif izierung g eg en
+über  
+W eb
+-
+Services des KBA
+-
+Port als".
+ 
+0.2
+ 
+I nhalt sverzei chnis
+ 
+Seit e
+ 
+0
+ 
+Al l gemei nes
+ 
+................................
+................................
+................................
+.................
+ 
+1
+ 
+0.1
+ 
+Allg emeineI nf or m at ion
+ 
+................................
+................................
+................................
+.
+ 
+1
+ 
+0.2
+ 
+I nhalt sv
+erzeichnis
+ 
+................................
+................................
+................................
+.........
+ 
+1
+ 
+0.3
+ 
+Änderungsverzeichnis
+ 
+................................
+................................
+................................
+...
+ 
+2
+ 
+0.4
+ 
+Mit g elt ende Dok ument e
+ 
+................................
+................................
+................................
+ 
+2
+ 
+0.5
+ 
+Abk ür zung sverzeichnis
+ 
+................................
+................................
+................................
+.
+ 
+2
+ 
+1
+ 
+Ei nleit ung
+ 
+................................
+................................
+................................
+....................
+ 
+4
+ 
+2
+ 
+Au t henti f i zi erung
+ 
+................................
+................................
+................................
+........
+ 
+4
+ 
+3
+ 
+Web
+-
+Servi ce Pass
+ 
+................................
+................................
+................................
+.......
+ 
+5
+ 
+3.1
+ 
+T echnische Beschr eibung des
+ 
+W eb
+-
+Ser vices
+ 
+................................
+...............................
+ 
+5
+ 
+3.2
+ 
+O per at ion
+ 
+Passwort Aenderung
+ 
+................................
+................................
+.....................
+ 
+7
+ 
+3.2. 1
+ 
+Eing abe PassReq uest
+ 
+................................
+................................
+................................
+..
+ 
+7
+ 
+3.2. 2
+ 
+Ausg abe 
+PassResponse
+ 
+................................
+................................
+...............................
+ 
+8
+ 
+3.3
+ 
+O per at ion
+ 
+I nf o
+ 
+................................
+................................
+................................
+...............
+ 
+9
+ 
+3.3. 1
+ 
+Eing abe inf oReq uest
+ 
+................................
+................................
+................................
+.....
+ 
+9
+ 
+3.3. 2
+ 
+Ausg abe inf oResponse
+ 
+................................
+................................
+................................
+.
+ 
+9
+ 
+ 
+ 
+
+Au t he ntifizi e rung KBA
+-
+P or tal
+ 
+ 
+ 
+ 
+St and: 
+Okt ober
+ 
+2020
+ 
+ 
+Seit e: 
+2
+ 
+Version 2.
+7
+ 
+0.3
+ 
+Än derungs verzei chnis
+ 
+ 
+Version
+ 
+Datum
+ 
+G eändert e 
+Kapit el
+ 
+G r und der Änderung
+ 
+2.0
+ 
+01. 11. 2010
+ 
+2
+ 
+
+m itg elt endes Dok ument
+ 
+2.1
+ 
+24. 04. 2012
+ 
+Kap.  0
+ 
+0.1, 0.2,  0. 3,
+ 
+0.4, 3.1
+ 
+St r ukt urelle Anpassung en 
+Redaktionelle Änderungen
+ 
+2.2
+ 
+11. 09. 2015
+ 
+Kap.  0
+ 
+0.1, 0.2,  0. 3,
+ 
+0.4, 3.1
+ 
+St r ukt urelle Anpassung en 
+Redaktionelle Änderungen
+ 
+2.3
+ 
+17. 02. 2016
+ 
+Kap.  2.0, 3.1
+ 
+St r ukt urelle Anpassung en 
+Redaktionelle Änderungen
+ 
+2.4
+ 
+16. 11. 2017
+ 
+3.2. 1
+ 
+Änderung Passwortk onvent ionen
+ 
+2.5
+ 
+04. 07. 2018
+ 
+3.1
+ 
+Akt ualisierung der URLs
+ 
+2.6
+ 
+23. 05. 2019
+ 
+3.1
+ 
+Akt ualisierung der URLs
+ 
+2.7
+ 
+30. 09. 2020
+ 
+1, 2
+ 
+Akt ualisierung der Returncodes undder Einleit ung
+ 
+2.8
+ 
+1
+4.10. 2020
+ 
+3.1
+ 
+T echnische Beschr eibung
+ 
+0.4
+ 
+M it gelt ende Dokumente
+ 
+[ 1]
+ 
+T echnische Rahm enbeding ung en
+ 
+W ebser vices
+ 
+[ 2]
+ 
+Def init ion desW ebser vice
+ 
+( pass. wsdl)
+ 
+[ 3]
+ 
+X ML
+-
+Schem a
+ 
+Hinweis. xsd
+ 
+ 
+Es sind die Schem a
+-
+ 
+und wsdl
+-
+Dateien der j eweils  ak t uellen Version zu verwenden.
+ 
+Dieses Dok um ent  sowie die m it
+g elt enden Dok ument ek önnen unt er  
+www. k ba. de
+ 
+und dem  Pf ad
+ 
+
+ 
+
+ 
+her unt erg eladen werden. Derf ür den Zugang  zu diesem g eschü
+t zt en Ber eich erf order liche Be
+nut-
+zername und das Kennwortk önnen beim  KBA erf r ag t werden.
+ 
+0.5
+ 
+Ab kürzungs verzei chnis
+ 
+HT ML
+ 
+H
+yper
+t
+ext  
+M
+ark up 
+L
+ang uag e
+ 
+HTT P
+ 
+H
+yper
+t
+ext  
+T
+r ansf er  
+P
+r otoc
+ol
+ 
+KBA
+ 
+K
+r af tf ahrt
+-
+B
+undes
+a
+mt
+ 
+URL
+ 
+U
+nif orm 
+R
+esource 
+L
+ocator
+ 
+X ML
+ 
+E
+x
+t ensible 
+M
+ark up 
+L
+anguag e
+ 
+ZEVI S
+ 
+Ze
+ntr ales 
+V
+erk ehrs
+i
+nf orm ations
+s
+yst em
+ 
+
+Au t he ntifizi e rung KBA
+-
+P or tal
+ 
+ 
+ 
+ 
+St and: 
+Okt ober
+ 
+2020
+ 
+ 
+Seit e: 
+3
+ 
+Version 2.
+7
+ 
+ 
+ 
+Element nam en sindk eine Abk ürzung en undsindan dieser  St elle nicht auf g ef ührt .
+ 
+
+Au t he ntifizi e rung KBA
+-
+P or tal
+ 
+ 
+ 
+ 
+St and: 
+Okt ober
+ 
+2020
+ 
+ 
+Seit e: 
+4
+ 
+Version 2.
+7
+ 
+1
+ 
+E inle itung
+ 
+Dieses Handbuch beschr eibt die Aut hentif izierungg eg enüber dem KBA
+-
+Port al und r icht et sich an 
+die Verf ahr ensent wick ler der ext ernen Par t ner , die di
+e vom KBA ber eitg est ellt enW eb
+-
+Services nut-
+zen wo llen.
+ 
+2
+ 
+Au t he ntifizi e rung
+ 
+Req uest s an Services des 
+KBA
+-
+Port als werden bear beit et,  wenn das überm it t elt e Cook ie zu einer 
+g ült ig en Sessiong ehört .
+ 
+Enthält  der  Req uest k ein oderk eing ült ig es Cook ie, so wir d e
+in Cook ie verg eben und über  Ba
+sic 
+Authenticat ion Kennungund Passwort  ang ef order t.
+ 
+Sind Kennung und 
+Passwort  g ült ig
+,
+ 
+wir df ür  dasCook ie eine Session eing er ichtet undder über
+-
+ 
+m it t elt e Req uest  ausg ef ührt.
+ 
+Sind Kennung oder Passwort  nichtg ült ig, wir d die HT ML
+-
+Antwo
+r t  401 ( Unauthor ised) zurückg e
+g e-
+ben.
+ 
+Sind Kennung und Passwort  g ült ig, aber  es besteht k ei
+n Recht  zurT eilnahme an dem Verf ahr en,  
+wir d die HT ML
+-
+Antwort  403 ( For bidden)  zurückg eg eben.
+ 
+Sollt e es zu t echnischenPr oblemenk omm en, wir d der Retur ncode 99nnnausg eg eben.  Dabei ist  
+
+ 
+Fehlerdiagnose von Bedeut ung . Bei 
+Auf tr eten dieser Fehler-
+m eldung bitt e Kont ak t m it  dem  KBA auf nehm en.
+ 
+ 
+Nutzung von Sessions
+ 
+Mit  erf olg r eicher  Anm eldung wir d eine Session eing er ichtet,  die dur ch das Cook ie r epr äsentier t 
+wir d undf ür die nachf olgenden Req uest s zu nut zen ist .
+ 
+Bei hohen Dialog
+f r eq uenzen k önnen weit ere Sessions ang elegt  werden.Bis zu 10 Sessions pro 
+Kennung sind zulässig .
+ 
+
+Au t he ntifizi e rung KBA
+-
+P or tal
+ 
+ 
+ 
+ 
+St and: 
+Okt ober
+ 
+2020
+ 
+ 
+Seit e: 
+5
+ 
+Version 2.
+7
+ 
+3
+ 
+W e b
+-
+S e rvic e  Pa s s
+ 
+DerW eb
+-
+Service Pass er m ög licht das Passwort  zu änder n (O per at ion: Passwort Aender ung ) und 
+I nf or m at ionen zum Passwort  einzuh
+olen ( O per at ion
+ 
+I nf o) .
+ 
+3.1
+ 
+Techni sche Beschrei bung des
+ 
+Web
+-
+Servi ces
+ 
+ 
+Beim  Zugrif f aus dem 
+NdB
+ 
+mit  TLS
+-
+Cl i ent
+-
+Zert i fi kat e
+n, die vom KB A ausgest ell tw ur
+den
+ 
+URLf ür denT est bet r ieb:
+ 
+htt ps: // t est por t al.k ba. doi
+-
+de. net/ pass_t est/ passSO AP
+ 
+ 
+URLf ür den Pr oduk t ionsbet r ieb
+ 
+htt ps: // port al.k ba. doi
+-
+de.net / pass/ passSO AP
+ 
+Der Name der Server wir d über die zent r alen DNS
+-
+Server im DOI
+-
+Ne
+t z auf gelöst.
+ 
+ 
+Beim  Zugrif f aus demCNP/ O N mi t TLS
+-
+Cl i ent
+-
+Zerti fi kat en,  di e vom K
+B A ausgest ell tw ur
+den
+ 
+URLf ür denT est bet r ieb 
+htt ps: // t est por t al.k ba. de/pass_test / passSO AP
+ 
+ 
+URLf ür den Pr oduk t
+ionsbet r ieb 
+ht t ps:/ / por t al.k ba.de/ pass/ passSO AP
+ 
+Die Nam ensauf lösungf ür  por t al.k ba. deundt estport al.k ba. de hat lok al zu erf olg en.
+ 
+ 
+Beim  Zugrif f über 
+die Internet
+-
+Umgebung des KB A
+ 
+ 
+(
+www. k ba
+-
+online. de
+ 
+sowi e 
+t
+est .k ba
+-
+online. de)
+ 
+ 
+URL
+ 
+f ür denT est bet r ieb
+ 
+htt ps: // t est.k ba
+-
+online. de/ pass_test/ passSO AP
+ 
+URLf ür den Pr oduk t ionsbet r ieb
+ 
+htt ps: // www. k ba
+-
+online. de/pass/ passSO AP
+ 
+ 
+Bei der  Pr üf ung der G ült igk eit desT LS
+-
+
+ 
+ 
+n
+ 
+des Servers über einstimm t.
+ 
+Dieses ist  bei Br owsernst andar dm äßig  im plem entier t,  bei E
+ig enent wick lung en j edoch in Ab
+häng ig-
+k eit von verwendet en Bibliothek en und Fr amework s zu beacht en.
+ 
+ 
+ 
+
+Au t he ntifizi e rung KBA
+-
+P or tal
+ 
+ 
+ 
+ 
+St and: 
+Okt ober
+ 
+2020
+ 
+ 
+Seit e: 
+6
+ 
+Version 2.
+7
+ 
+List e allerO per at ionenm it  Eing abe
+-
+ 
+un
+d Rückgabewert :
+ 
+O per at ion
+ 
+Eing abewert
+ 
+Rückg abewert
+ 
+Passwort Aender ung
+ 
+Pa s s R e q u e s t
+ 
+Pa s s R e s p o n s e
+ 
+I nf o
+ 
+inf oReq uest
+ 
+inf oResponse
+ 
+ 
+Die Dat ei pass. wsdl def iniert  dieg enannt en O perationen im Namensr aum 
+htt p:/ / www. k ba. de/ pass
+-
+service 
+( Param eter  undRückg abewert st amm enj eweils aus dem  Nam ensr aum 
+htt p: // www. k ba. de/ pass
+).
+ 
+Eine Beschr eibung der Datei bef indet sich in [ 2] .
+ 
+Beispiele über den Auf bau einer  Nachr icht 
+sind in dem Do
+k ument "T echnische Rahm enbedin
+g un-
+g en" [ 1] im  Ber eichG esam t st r ukt ur  SO AP
+
+ 
+Anf r ag e undG esam t st r ukt ur  SO AP
+
+ 
+Antwort beschr ie-
+ben.
+ 
+W eit ere t echnische undsicher heit sbeding t e Anf or der ung en ( Netzzug äng e,  Verschlüsselung)kön-
+nen dem Dok ument " I nf or
+m at ionen zur net zt echnischen Anbindung an das Kr af tf ahr t
+-
+ 
+Bundesamt  
+f ür Behörden"
+1
+ 
+ent nom men werden.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Zugängli c h ebenf alls unt er 
+www. k ba. de 
+und dem P f ad Zent rale Regi
+s t er/ .. . /I nf orm at ionenf ür B ehörden und S oft wareanbiet er.  
+Die Zugangs dat en zu dies em gesc hüt zt enB ereic hk önnen beim KBA  erf ragt werden.
+ 
+
+Au t he ntifizi e rung KBA
+-
+P or tal
+ 
+ 
+ 
+ 
+St and: 
+Okt ober
+ 
+2020
+ 
+ 
+Seit e: 
+7
+ 
+Version 2.
+7
+ 
+3.2
+ 
+O perat i on
+ 
+Passw ort Ae nderung
+ 
+Mit  demW eb
+-
+Service Passk ann das Passwort  zu einer  Kennungg eändert 
+werden. Dies ist inf ol-
+g enden Fällen not wendig:
+ 
+
+ 
+Eine Kennung wurde erst m als zug eor dnet  und das vom KBA verg ebene erst e Passwort ist 
+noch nicht veränder t
+ 
+worden.
+ 
+
+ 
+I m Rahm en der Freischalt ung einer g esperr t en Kennung wurde ein zu änder ndes Passwort 
+zug eor dnet
+.
+ 
+
+ 
+Das Passwort  hat  seineG ült igk eit
+ 
+verlor en.
+ 
+Davon unabhäng igk annder  Anwender  sein Passwort  j ederzeit  änder n.
+ 
+3.2. 1
+ 
+Ei ngabe PassRequest
+ 
+I n PassReq uest  wir d das Element Kennung Passwort  überg eben:
+ 
+<xsd:element name="KennungPasswort" 
+type="
+pass:KennungPasswortTyp" />
+ 
+ 
+<xsd:complexType name="KennungPasswortTyp">
+ 
+<xsd:sequence>
+ 
+<xsd:element name="Kennung" type="pass:typ
+-
+Base64" />
+ 
+<xsd:element name="Passwort" type="pass:typ
+-
+Base64" />
+ 
+<xsd:element name="PasswortNeu" 
+type="pass:typ
+-
+Base64" minO
+ccurs="0" />
+ 
+</xsd:sequence>
+ 
+</xsd:complexType>
+ 
+ 
+Beschr eibung der Elemente
+ 
+Element
+ 
+Beschr eibung
+ 
+Kennung
+ 
+I n diesem  Element  wir ddie v
+om KBA verg ebeneKennung  eing e
+t r ag en.  Es 
+ist  nach Base64 zu codier en.
+ 
+Passwort
+ 
+I n diesem  Element  ist  das ak t uelle Passwort
+ 
+einzutr ag en.  Es ist nach 
+Base64 zu codieren.
+ 
+Passwort Neu
+ 
+I n diesem  Element  ist  das neue Passwort einzutrag en.  Es ist nach Base64 
+zu codieren.
+ 
+
+Au t he ntifizi e rung KBA
+-
+P or tal
+ 
+ 
+ 
+ 
+St and: 
+Okt ober
+ 
+2020
+ 
+ 
+Seit e: 
+8
+ 
+Version 2.
+7
+ 
+Für  das Passwort g ilt dief olg ende Bildungsr eg el: 
+ 
+Mindestens 10 Zeichen, m axim al 20 Zeichen,
+ 
+davon
+ 
+-
+ 
+m indestens eine
+ 
+Zif f er
+ 
+-
+ 
+m indestens ein Buchst abe a, b,
+ 
+
+ 
+-
+ 
+Mindestens ein Buchst abe A,  B,  C,
+ 
+.. .
+ 
+-
+ 
+m indestens ein Sonder zeichen !  # $ % 
+-
+ 
+/ : = ? @ [ ] _{
+ 
+}
+ 
+-
+ 
+k ein ander es Zeichen, auchk ein
+ 
+Leer zeichen
+ 
+-
+ 
+es m uss sich von den letzt enf ünf  Passwort en
+ 
+unterscheiden
+ 
+Die g ült ig en Zeichen dürfen nur aus deng enannt en Zeic
+henvorr äten st amm en, alle ande
+r en Zei-
+chen wie z.  B.  Um laut e,Leerzeichen oder & sindnicht erlaubt .
+ 
+Das neue Passwort hateine G ült igk eit sdauer  von 90T ag en ( akt uellerT ag + 89T ag e) .
+ 
+3.2. 2
+ 
+Au sg
+abe PassRespons e
+ 
+I n PassResponse wir d das Element Hinweis [ 3] überg eben. Beschr eibung der Element e:
+ 
+Element
+ 
+Beschr eibung
+ 
+Retur ncode
+ 
+Schlüssel der  Meldung
+ 
+Retur ntext
+ 
+Beschr eibenderT ext zum Ret urncode
+ 
+Syst emf ehlerI d
+ 
+I dentif ik at orf ür  KBA
+-
+inter ne 
+Fehleranalyse
+ 
+ 
+Retur ncodes der O perat ion Passwort Aender ung:
+ 
+Retur ncode
+ 
+Retur ntext
+ 
+00300
+ 
+I hre Passwort änder ungwar erf olgreich. Verwenden Sie bei I hr er nächst en 
+Anmeldung das neue Passwort .
+ 
+03003
+ 
+Die Kombinat ion von Kennung und Passwort istung ült ig  oder
+ 
+die Kennung 
+ist g esper rt .
+ 
+03010
+ 
+Passwort änder ung f ehlgeschlag en!
+ 
+Die Bildung sr eg elnf ür ein Passwort  wurden nicht eing ehalt en.
+ 
+03011
+ 
+Passwort änder ung f ehlgeschlag en!
+ 
+Das neue Passwort ist eines der zuletzt  verwende t en 5 Passwört er.
+ 
+
+Au t he ntifizi e rung KBA
+-
+P or tal
+ 
+ 
+ 
+ 
+St and: 
+Okt ober
+ 
+2020
+ 
+ 
+Seit e: 
+9
+ 
+Version 2.
+7
+ 
+3.3
+ 
+O perat i on
+ 
+I nfo
+ 
+Mit  der O per ationk önnen I nf orm ationen zum Passwort  ang ef or dert  werden.
+ 
+3.3. 1
+ 
+Ei ngabe i nf oRequest
+ 
+I n inf oReq uest  wir d dasElement  Passwort übergeben
+ 
+3.3. 2
+ 
+Au sgabe i nfoResponse
+ 
+I n inf oResponse wir d das Element Hinweis übergeben 
+ 
+ 
+Retur ncodes
+ 
+der O perat ion inf o:
+ 
+Retur ncode
+ 
+Retur ntext
+ 
+00501
+ 
+Das Passwort  ist nur noch heuteg ült ig .
+ 
+00502
+ 
+Das Passwort  ist noch 2T ag e ( heut e+ 1T ag )g ült ig.
+ 
+00503
+ 
+Das Passwort  ist noch 3T ag e ( heut e+ 2T ag e)gült ig .
+ 
+00504
+ 
+Das Passwort  ist noch 4T ag e ( heut e+ 
+3T ag e)gült ig .
+ 
+00505
+ 
+Das Passwort  ist noch 5T ag e ( heut e+ 4T ag e)gült ig .
+ 
+00506
+ 
+Das Passwort  ist noch 6T ag e ( heut e+ 5T ag e)gült ig .
+ 
+00507
+ 
+Das Passwort  ist noch 7T ag e ( heut e+ 6T ag e)gült ig .
+ 
+00508
+ 
+Das Passwort  ist noch 8T ag e ( heut e+ 7T ag e) 
+gült ig .
+ 
+00509
+ 
+Das Passwort  ist noch 9T ag e ( heut e+ 8T ag e)gült ig .
+ 
+00510
+ 
+Das Passwort  ist noch 10T ag e( heute + 9T ag e) g ült ig .
+ 
+00511
+ 
+Das Passwort  ist noch 11T ag e( heute + 10T ag e) g ült ig .
+ 
+00512
+ 
+Das Passwort  ist noch 12T ag e( heute + 11T ag e) g ült ig .
+ 
+00513
+ 
+Das Passwort  ist noch 13T ag e( heute + 12T ag e) g ült ig .
+ 
+00514
+ 
+Das Passwort  ist noch 14T ag e( heute + 13T ag e) g ült ig .
+ 
+00515
+ 
+Das Passwort  ist noch mehr  als 14T ag eg ült ig.
+ 
+03003
+ 
+Die Kombinat ion von Kennung und Passwort istung ült ig  oder  die 
+ 
+Kennung  ist g esperr t.
+ 
+03007
+ 
+Das Passwort  hat  seineG ült igk eit  verlor en,  zur Passwort änder ung  
+ 
+wenden Sie sich bit t e andas Kr af tf ahrt
+-
+Bundesamt .
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impressum
+ 
+ 
+Herausgabe:
+ 
+Kr af tf ahrt
+-
+Bundesamt  
+24932 Flensburg
+ 
+ 
+I nter net:
+ 
+www. k ba. de
+ 
+ 
+ 
+Fachliche Ausk ünf t e und Berat ung:
+ 
+ 
+T elef on:
+ 
+0461 316
+-
+0
+ 
+T elef ax:
+ 
+0461
+ 
+316
+-
+1650
+ 
+E
+-
+Mai l:
+ 
+ze vis. online@k ba. de
+ 
+ 
+ 
+Er schienen im 
+Okt ober  2020
+ 
+St and:
+ 
+Ok t ober
+ 
+2020
+ 
+ 
+Dr uck :
+ 
+Dr uck zent r um KBA 
+Bildq uelle:
+ 
+www. shut t erstock.de
+ 
+ 
+ 
+ 
+ 
+Al l e  Rec h te vo rb e ha l ten . Die Ve rvi e l fäl ti gu n g u n d  Ve rb rei tu ng d i es e r Ve rö ff e ntl ic h un g ,a u ch a u s zu gs we i s e  un d  in  
+d i g i ta l e rFo rm , is t nu r mi t Qu e lle n a n
+ga b e g es ta tte t.  Die s  gi l tau c h , we n n  In h al te  di es e r Ve rö ffe n tli c hu n g  we i te rve rb re i
+-
+ 
+te t we rd e n , di e  nu r mi tt el b a re rl a n g t wu rd e n .
+ 
+ 
+© Kra ft fa h rt
+-
+Bu n de s am t, Fl e nsb u rg
+ 
+ 
+ 
+KB A 
+-
+ 
+Wi r punkt en mi tVerkehrssi cherhei t ! 
+ 
+ 

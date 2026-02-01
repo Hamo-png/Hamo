@@ -1,0 +1,1936 @@
+ 
+ 
+ 
+ 
+Zentra le 
+ 
+Großk undensc hnit ts telle
+ 
+ 
+Besc hreibung desW ebs ervic e
+ 
+ 
+St and:  
+April
+ 
+202
+5
+,Vers ion 2.
+5
+ 
+
+Ze ntra le  G roßk undens c hnitts tell e
+ 
+ 
+ 
+Sta n d : 
+Ap ri l
+ 
+202
+5
+ 
+Se i te : 
+2
+ 
+1
+ 
+Inha lts ve rze ic hnis
+ 
+ 
+1
+ 
+I nhalt sverzei chnis
+ 
+................................
+................................
+................................
+.......
+ 
+2
+ 
+2
+ 
+Verzei chnisse
+ 
+................................
+................................
+................................
+..............
+ 
+3
+ 
+2.1
+ 
+Änderungsverzeichnis
+ 
+................................
+................................
+................................
+..
+ 
+3
+ 
+2.2
+ 
+Abk ür zung sverzeichnis
+ 
+................................
+................................
+................................
+.
+ 
+3
+ 
+2.3
+ 
+Mit g elt ende Dok ument e
+ 
+................................
+................................
+................................
+ 
+3
+ 
+3
+ 
+Ei nleit ung
+ 
+................................
+................................
+................................
+....................
+ 
+5
+ 
+3.1
+ 
+T echnische Beschr eibung desW ebser vice
+ 
+................................
+................................
+..
+ 
+5
+ 
+3.2
+ 
+Allg emeine Verar beit ungshinwe ise
+ 
+................................
+................................
+...............
+ 
+5
+ 
+3.2. 1
+ 
+Zeichenk odierung
+ 
+................................
+................................
+................................
+.........
+ 
+5
+ 
+3.2. 2
+ 
+Hin weis bei Schem ainval idit ät
+ 
+................................
+................................
+......................
+ 
+5
+ 
+3.2. 3
+ 
+Adressierung shinweis
+ 
+................................
+................................
+................................
+...
+ 
+6
+ 
+4
+ 
+Beschrei bung der Funkti onal it äten
+ 
+................................
+................................
+...........
+ 
+7
+ 
+4.1
+ 
+Er r eichbark eit der  Zulassung sbehör de via i
+-
+Kf z
+-
+Port al pr üf en
+ 
+................................
+......
+ 
+7
+ 
+4.2
+ 
+Antr ag st ellung
+ 
+................................
+................................
+................................
+...............
+ 
+7
+ 
+4.2. 1
+ 
+Eing
+ang sak t ivit äten dur chf ühr en
+ 
+................................
+................................
+...................
+ 
+7
+ 
+4.2. 2
+ 
+Antr ag  im  Pr üf m odul vali dieren
+ 
+................................
+................................
+.....................
+ 
+8
+ 
+4.2. 3
+ 
+Zust ändig e ZulB auf  vorhandenes i
+-
+Kf z
+-
+Port al prüf en
+ 
+................................
+...................
+ 
+8
+ 
+4.2. 4
+ 
+Ang ereicher t en Antr ag f ür  i
+-
+Kf z
+-
+Port al ber eit st ellen
+ 
+................................
+......................
+ 
+8
+ 
+4.2. 5
+ 
+Antr ag sber eit st ellung f ürdie Zulassung sbehör de
+ 
+................................
+.........................
+ 
+9
+ 
+4.2. 6
+ 
+Vorg ang beobacht en
+ 
+................................
+................................
+................................
+....
+ 
+9
+ 
+4.3
+ 
+St atusanf r ag e verar beit en
+ 
+................................
+................................
+.............................
+ 
+9
+ 
+5
+ 
+Q uit t ungscodes
+ 
+................................
+................................
+................................
+........
+ 
+10
+ 
+ 
+ 
+ 
+
+Ze ntra le  G roßk undens c hnitts tell e
+ 
+ 
+ 
+Sta n d : 
+Ap ri l
+ 
+202
+5
+ 
+Se i te : 
+3
+ 
+2
+ 
+V e rze ic hniss e
+ 
+2.1
+ 
+Än derungs verzei chnis 
+ 
+Versi on
+ 
+Datum
+ 
+G eändert e 
+Kapi t el
+ 
+G rund der Änderung
+ 
+1.0
+ 
+01. 09. 2023
+ 
+ 
+Er st veröf f ent lichung
+ 
+2.0
+ 
+08. 08. 2023
+ 
+Al l e
+ 
+Komplett über arbeit ung nach G K
+-
+Feedback
+ 
+2.1
+ 
+06. 11. 2023
+ 
+3.2. 3,
+ 
+4. 1, 
+4.2. 1,  
+4. 2.6,  
+4.3, 5
+ 
+Entf ernenQ C 07075,  Auf nahme Q C 00303,
+ 
+Lim it ierung  des Polling ,
+ 
+Konkr etisierung Sig nat urprüf ung
+ 
+2.2
+ 
+08. 11. 2023
+ 
+Al l e
+ 
+Q ualit ätssicher ung
+ 
+2.3
+ 
+18. 03. 2024
+ 
+4.2. 1,  4. 2.3,  
+4.2. 6,  5
+ 
+Q uit t ungscode 00707 bei Pr üf ung  sonst ig er  An-
+t r ag st eller und in der  
+List e der  Q uitt ung scodes 
+erg änzt . Q uit t ung scode 07085 bei den Q uit t un-
+g en (W eit er leit ung ans Fachverf ahr en und Q uit -
+t ung  vom i
+-
+Kf z
+-
+Port al)  und in der List e der  Q uit-
+t ung scodes erg änzt .
+ 
+2.4
+ 
+04
+.0
+9
+. 2024
+ 
+3.2. 2,  5
+ 
+Q uit t ungscode 00306 bei der Pr üf ung der Sche-
+m aval
+idit ät und in der  List e der  Q uitt ung scodes 
+erg änzt .
+ 
+2.5
+ 
+16. 04. 2025
+ 
+4.2. 6
+ 
+Er höhungder W art ezeit von30auf 60Sek unden
+ 
+ 
+2.2
+ 
+Ab kürzungs verzei chnis
+ 
+Ab kürzung 
+ 
+Erkl ärung 
+ 
+G KS
+ 
+G r oßk undenschnit tst elle
+ 
+KBA
+ 
+Kr af tf ahrt
+-
+Bundesamt  
+ 
+URL
+ 
+Unif orm Resource Locator
+ 
+UUI D
+ 
+Universall y Uniq ue I dentif ier
+ 
+WS
+ 
+W ebservice
+ 
+W SDL
+ 
+W eb Services Descr iption Lang uag e
+ 
+X ML
+ 
+ext ensible m ark up lang uag e
+ 
+ZulB
+ 
+Zulassung sbehör de
+ 
+ 
+2.3
+ 
+M it gelt ende Dokumente
+ 
+[ 1]
+ 
+Authentif izierungg eg enüber W ebser vices des KBA
+-
+Port als
+ 
+[ 2]
+ 
+T echnische Rahm enbeding ung en 
+der 
+W eb
+-
+S
+ervices KBA
+-
+Port al
+ 
+[ 3]
+ 
+Def init ion desW ebser vicef ür  die Schnitt st elle (
+x
+kf z. wsdl)
+ 
+[ 4]
+ 
+X Kf z Spezif ik ation
+ 
+[ 5]
+ 
+I nf or m at ionen zur net zt echnischen Anbindung an das K
+r af tf a
+hr t
+-
+Bundesam t 
+f ür  Behör -
+den
+ 
+ 
+
+Ze ntra le  G roßk undens c hnitts tell e
+ 
+ 
+ 
+Sta n d : 
+Ap ri l
+ 
+202
+5
+ 
+Se i te : 
+4
+ 
+DerZug angzudenm itgelt endenDok um ent enk anninder Anwender bet r euung der G KSim KBA 
+erf rag t werden: 
+gk s
+-
+anwender betr euung @k ba. de
+ 
+ 
+Die X Kf z
+-
+Spezif ik ation
+ 
+[ 4]
+ 
+sowie zug ehörig e Schem ata und Codelist en k önnen in ak t ueller Ver-
+sion im  
+X Reposit or y ( www. xr eposit ory. de)
+ 
+her unterg eladen werden.
+ 
+ 
+Heut ewir dinöf f entlichenBereichen 
+
+ 
+wieauchbeim Kr af tf ahr t
+-
+Bundesamt 
+
+ 
+auf g enderg erecht e 
+Sprache g eachtet .  Es k ann j edoch vork omm en,  dass vor allem ält ere Dokument e nicht  diesem 
+Anspr uch g enüg en.  W ir  bit t en dies im  Hinblick auf  den dam it verbundenen 
+r edakt ionellen Auf -
+wand zu ent schuldig en. Bei zuk ünf t ig er  inhalt licher  Über ar beit ung  werden diese Dok umente 
+ebenf alls auf g enderg er echte Spr ache über prüf t undggf .  ang epasst.
+ 
+
+Ze ntra le  G roßk undens c hnitts tell e
+ 
+ 
+ 
+Sta n d : 
+Ap ri l
+ 
+202
+5
+ 
+Se i te : 
+5
+ 
+3
+ 
+E inle itung
+ 
+DiesesHandbuchbeschreibtdieW ebservice
+-
+Funkt ionalit äten
+, welche
+ 
+das 
+Kr af tf ahrt
+-
+Bundesamt 
+den 
+G r oßkunden
+ 
+zurinter net basiert enFahr zeug zulassung
+ 
+über dieG r oßkundenschnit t st elle
+ 
+be-
+r eit st ellt. Esr icht etsichandieVerf ahr ensent wick ler,welchediesevomKBAber eitg est ellt eX ML
+-
+Schnit t st ellef ür die Programm
+-
+zu
+-
+Pr ogramm
+-
+Kom m
+unik at ion nut zen.
+ 
+Die Nutzung  dieses Anf rag e
+-
+ 
+und Auskunf t sdialog s setzt  im m er  eine erf olg r eiche Aut hentif izie-
+r ung
+ 
+voraus
+. Das Aut hent if izierung sverf ahr en ist in einem  eig enen Handbuch 
+[ 1]
+ 
+beschrieben.
+ 
+Die Komm unik ation f indet dur ch den Aust ausch von X ML
+-
+Dok ument en st att . Die X ML
+-
+Dok u-
+m ent e werden m it  
+den 
+Schem ata
+ 
+des X Kf z
+-
+St andards 
+[ 4]
+ 
+beschrieben. Dieses Handbuch erläu-
+t ert  die Ver wendung  der Schem ata im Anf r ag e
+-
+ 
+und Ausk unf t sdialog.
+ 
+Für  den Zug r if f  
+ist
+ 
+eine Benutzerk ennung m it Passwort  not wendig .  Kennung  und Passwort  wer-
+den erst m alig  dur ch das KBA verg eben. Das Passwort  k ann 
+anschließend m it einem separ aten 
+Passwort
+-
+W ebser vice ( siehe
+ 
+[ 1]
+)g epf leg t werden.
+ 
+3.1
+ 
+Techni sche Beschrei bung desWebservi ce
+ 
+URLs f ür den Zugri ff :
+ 
+URLf ür denT est bet r
+ieb:
+ 
+htt ps: // t est.k ba
+-
+online. de/gk s_test/ av/ xkf zSO AP
+ 
+ 
+URLf ür den Pr oduk t ionsbet r ie
+b
+:
+ 
+htt ps: // www. k ba
+-
+online. de/gk s/ av/
+xkf zSO AP
+ 
+Beschrei bung:
+ 
+I nf or m at ionen zur net zt echnischen Anbindung sind in 
+[ 5]
+ 
+zuf inden.
+ 
+Die 
+t echnische 
+Beschr eibung desW ebser vices ist  
+dur ch die
+ 
+Dat ei 
+[ 3]
+ 
+dargest ellt
+.
+ 
+Beispi
+ele über den Auf bau einer  Nachr icht st ehen in den t echnischen Rahmenbeding ung en 
+[ 2]
+ 
+im  BereichG esamt str uk tur SO AP
+-
+Anf r ag e und Gesam tstr uk t ur  SO AP
+-
+Antwort .
+ 
+3.2
+ 
+Al l geme
+i ne Verarbei t ungshi nw ei se
+ 
+Die Nutzung  des hier beschriebenen W ebser vice G KS r ichtet  sich nach den Vorg aben und der 
+Spezif ik at iondesSt andar dsX Kf z 
+[ 4]
+.Kenntnisseüberdiegrundleg endenSt r ukt urendiesesSt an-
+dar ds werden vorausg esetzt .  Dieses Dok ument g ibt erg änzende Hinwe ise.
+ 
+3.2. 1
+ 
+Zei chenkodierung 
+ 
+Die Datenüberm it t lung  ist  im UT F
+-
+8
+-
+Code dur chz
+uf ühr en.  Der Einsat z ander er 
+K
+od
+ierung en
+ 
+ist 
+nicht 
+zulässig .
+ 
+ 
+3.2. 2
+ 
+Hi nw ei s bei  Schemai nvali di t ät
+ 
+Der W ebser vice nut zt  zur Verar beit ung  eine zent r ale Methode,  welche j e nach eing ehendem 
+Nachr ichtent yp unt erschiedlich r eag iert.
+ 
+Der G KS
+-
+W ebser vice verar beit et die 
+X Kf z
+-
+Nachr ichte
+n 
+
+Ze ntra le  G roßk undens c hnitts tell e
+ 
+ 
+ 
+Sta n d : 
+Ap ri l
+ 
+202
+5
+ 
+Se i te : 
+6
+ 
+vorsystem.AnfrageErreichbarkeitPortal.0712
+,
+ 
+vorsystem.Antrag.0701,sowie 
+vorsystem.anfragestatus.0703
+.
+ 
+W ir d ein sonst ig er Nachr ichtent yp überm it t elt ,  wir d der 
+Q uit t ungscode( Q C)001
+07
+ 
+g eset ztundeineNachricht 
+kommunikation.quittung.0002
+ 
+zu-
+r ückg eg eben.
+ 
+Vor j eder Verar beit ung wir d g epr üf t, ob die über m itt elt e Nachr icht  dem ent sprechenden Nach-
+r ichtenschem a ent spr icht. I st dies nicht  der  Fall,  wir d in der Verar beit ung der 
+QC
+ 
+0010
+4
+ 
+überm it -
+t elt
+.
+ 
+Darüber hinaus wir d g epr üf t , ob es sich bei der  Nachr ichten
+-
+I D um  einen Universally Uniq ue 
+I dentif ier( UUI D)handelt .I stdiesnichtder Fall, wi r dder  
+Q C00108
+ 
+überm itt elt .
+ 
+Sof erneinSt atus 
+ 
+ehlerm eldungm it  dem 
+Q C 00306.
+ 
+ 
+Bei Schem ainvalid it ät liegt  in der  Reg el ein Fehler im Syst em des Absenders vor. Dies ist eig en-
+st ändig zuk lären.
+ 
+3.2. 3
+ 
+Ad ressierungshi nw ei s
+ 
+DieKopf dat enderX Kf z
+-
+Nachr ichtenst r ukt ursehendieAng abeeinesAbsendersundEm pf äng er
+s 
+verbindlich vor.  Für die Komm unik at ion m it t els 
+dem W ebser vice Gr oßk undenschnit t st elle
+ 
+ist da-
+bei die Verwendung  der vom KBA verg ebenen Komm unik at ionspar t ner schlüssel vorg esehen. 
+Kann 
+einem  Gr oßk unden k ein in der KO DA hinterlegter  Kom m unik at ionspar t ner schl
+üssel zug e-
+ordnet werden, wir d der 
+Q C 
+00305
+ 
+in der Nachr icht 
+kommunikation.quittung.0002
+ 
+ausg e-
+g eben.
+ 
+Er g änzend wir d g epr üf t , ob die in der  überm it t elten X Kf z
+-
+Nachr icht verwendet en Codelist en m it 
+ihrer  Version,  sowie den ver wendet en Codes k or rekt ang eg eben w
+urden. Ist  dies nicht  der  Fall, 
+wir deineNachr icht 
+kommunikation.quittung.0002
+ 
+m it dem
+ 
+Q C00303
+ 
+undeinement spr e-
+chenden Q uit t ung szusatz ausg eg eben.
+ 
+ 
+
+Ze ntra le  G roßk undens c hnitts tell e
+ 
+ 
+ 
+Sta n d : 
+Ap ri l
+ 
+202
+5
+ 
+Se i te : 
+7
+ 
+4
+ 
+Bes c hreibung de r Funk tional itä ten
+ 
+4.1
+ 
+Err eichbarkei t 
+der Zul assungsbehörde vi ai
+-
+Kfz
+-
+Port al  prüf en
+ 
+Diese 
+Funktionalit ät
+ 
+dient den
+ 
+Gr oßk undenals 
+Mög lichk eit  
+um  
+zuprüf en, obeineZulassung sbe-
+hör de
+ 
+( ZulB) 
+über das j ewe ilig e i
+-
+Kf z
+-
+Port al t echnisch err eichbar ist
+. Eine Anfr ag e erf olg t m it t els 
+der Nachr icht
+ 
+v
+orsy
+stem.anfrageerreichbarkeitPortal.0712
+.
+ 
+Diezyk lisch
+eAnf r ag e 
+( Polling )  zur Err eichbarkeit  einer  Zulassung sbehörde via i
+-
+Kf z
+-
+Port al ist m axim al einmal pro Mi-
+nut e dur chzuführ en.
+ 
+T r it t der Fall ein, dass anhand der Halt erdat en die zuständig e 
+ZulB
+ 
+auf grund t echnischer  Pr ob-
+leme nicht  erm it t elt werden k ann
+, wir d der 
+Q C 07078
+ 
+in der Nachr icht 
+kommunikation.quit-
+tung.0002
+ 
+ausg eg eben.Konnteeinezuständige 
+ZulB
+ 
+nichtinder KO DAerm itt elt werden,wir d 
+der  
+Q C 07079 
+überm it t elt .
+ 
+Verf ügt eine erm itt elt e 
+ZulB
+ 
+überk ei
+n
+ 
+i
+-
+Kf z
+-
+Portal,  wir d der  
+Q C 07080
+ 
+ausg eg eben.
+ 
+B
+eier
+f olg r eichem Ablauf
+ 
+g ibtderW ebser vice 
+den 
+QC
+ 
+07081
+ 
+andenKommunik ationspar t ner  
+m it-
+t els der  Nachr icht 
+kommunikation.quittung.0002
+ 
+zurück.
+ 
+I st
+ 
+das adressiert e i
+-
+Kf z
+-
+Port al 
+t echnisch nicht  er r eichbar , wir d der  
+Q C 07082
+ 
+ausg eg eben.
+ 
+4.2
+ 
+An t ragst ell ung
+ 
+4.2. 1
+ 
+Ei ngangsakt i vi t ät en durchführen
+ 
+Soll ein Zulassung svorgang  über  die Gr oßk undenschnit t st elle abg ewickelt  werden, überm it t elt 
+der G r oßkundedenZulassungsantr ag inFormder X Kf z
+-
+Nachr icht
+ 
+vorsystem.anfrageprue-
+fung
+.
+070
+1
+. 
+Nachdem der Antr ag 
+bei der G r oßk undens
+chnit t st elle eing eg ang en ist
+,
+ 
+wir d 
+die 
+Ar t  des G eschäf t svorf alls g epr üf t.  I st  der  ang e
+gebene G eschäf tsvorf all nicht zulässig ,  wir d der 
+Q C 00001
+ 
+ausg eg eben.
+ 
+Falls 
+f ür  den j eweilig en G eschäf t svorf all r elevant ,  wir d 
+g epr üf t ,
+ 
+ob eine 
+Versicherung sbest ätig ung snum m er  über m itt elt  wurde.  I st dies nicht der  Fall,  wir d 
+der  
+Q C 00301
+ 
+in der  Nachr icht
+ 
+kommunikation.quittung.0002
+ 
+überm itt elt
+.
+ 
+Anschließend
+ 
+wir d g epr üf t,  
+ob der Gr oßk unde in der  
+KO DA des KBA hinterlegt ist . I st dies nicht 
+der  Fall,
+ 
+wir d der
+ 
+Q C 00200
+ 
+in der Nachr icht  
+kommunikation.quittung.0002
+ 
+ausg eben.
+ 
+I m Anschluss dar an erf olgt die Pr üf ung, ob 
+der  Nutzer das Datenf eld sonst ig er  Ant r ag st eller be-
+f üllt  hat
+.  Im  Neg ativf all wir d der  
+Q C 00
+707
+ 
+zurückg eg eben.  Sof er n das Dat enf eld sonst ig er  An-
+t r ag st eller g ef üllt  ist,  wir d g epr üf t ,  
+inwief ern diese Ang abe
+ 
+m it  de
+n
+ 
+beim  KBA hinter legt en I nf or-
+m ationen zum Komm unik at ionspart ner übereinstim m
+t
+. 
+Im Neg at ivf all wir d der  
+Q C 00
+305
+ 
+zurück -
+g eg eben.
+ 
+Alsnächstes
+ 
+erf olgtdiePr üf ung, 
+obessichbeidem  
+Ant r ag st eller
+ 
+um einenGr oßk undenhandelt
+. 
+I st der Antr ag st ellerk einG r oßk unde,
+ 
+wir d der 
+Q C 00
+200
+ 
+zurückg eg eben.
+ 
+Zur  weit eren Verar beit ung 
+wir d auf  das 
+Vorhandensein einer  
+elekt r onischen Sig nat ur
+ 
+g epr üf t
+. Im 
+Fehler
+f allwir dder  
+Q C00
+20
+9
+ 
+zurückg eg eben. 
+Darüberhinauswir dg epr üf t, ob
+ 
+einX . 509Zert if ik at 
+vorlieg t .Fehltdies,wir dder  
+Q C0020
+8
+ 
+ausg eg eben.
+ 
+I stdasvorlieg endeX. 509Zert if ik atung ült ig ,
+ 
+wir d der  
+Q C 00202
+ 
+über m itt elt.
+ 
+Anschließend
+ 
+wi r d überpr üf t ,  ob die üb
+er m itt elt e Sig nat ur  des 
+Antr ag sg ült ig ist .I st diesnichtderFall, wir dder  
+QC00203
+ 
+zurückg egeben.
+ 
+DieSig nat ur prüf ung 
+k ann nur  dann erf olgreich dur chlauf en werden, wenn die
+ 
+Sig nat ur  ( Enveloping
+-
+Sig nat ur )  die An-
+t r ag sdat en 
+inner
+ 
+vorg ang sk om ponent eAntr agGr ossk undeSig niert
+
+ 
+umf asst.
+ 
+ 
+
+Ze ntra le  G roßk undens c hnitts tell e
+ 
+ 
+ 
+Sta n d : 
+Ap ri l
+ 
+202
+5
+ 
+Se i te : 
+8
+ 
+Nach 
+erf olgreicher 
+Sig nat urp
+r üf ung 
+wir d g epr üf t ,ob die Fahrzeug identif ikationsnumm er 
+überm it-
+t elt wurde. 
+Beif ehlenderAng abe
+ 
+wir dder 
+QC
+ 
+00301
+ 
+zurückg eg eben.Außer demwir dg epr üf t, ob 
+essichbeidem G r oßk undenumeinenDienst leisterhandelt .
+ 
+I st diesnichtder Fallundder G r oß-
+k unde ist nicht als Halt er im Ant r ag ang eg eben, wir d der 
+Q C 00700
+ 
+ausgeg eben. 
+Im Anschluss 
+wir d g epr üf t, ob der als Die
+nstleist er f ung ierende G r o
+ßk unde eine Vollm acht zur Ant r ag st ellung 
+auf  Dr itt e überm it t elt  hat.
+ 
+I m Neg at ivf all 
+wir d der  
+Q C 00206
+ 
+zurückg eg eben.
+ 
+Möcht e der G r oß-
+k unde eine
+n G eschäf tsvorf all abwick eln, der  von der  G KS nicht unt erst üt zt  wir d, wir d der  
+Q C 
+00001
+ 
+in der Nachr icht  
+kommunikation.quittung.0002
+ 
+zurückg eg eben.
+ 
+W urdenk eineHalt er dat enim Antr agang eg ebenundder überm itt elt eG eschäf t svorf allentspricht 
+k einer Außerbet r iebset zung, wir d der 
+Q C 07083
+ 
+überm itt elt.
+ 
+Bei erf olg r eicher  Pr üf ung wir d der  Ant r ag
+ 
+um dieAntr ag s
+-
+I D und die Rechnung sadr esse erg änzt
+ 
+und an das Pr üf m odul weit erg eleit et.  
+I st  das Pr üf m odul t echnisch nicht err eichbar, wir d der 
+QC
+ 
+00024
+ 
+ausg eg eben.
+ 
+4.2. 2
+ 
+An t rag
+ 
+i m Prüfmodul vali di ere
+n
+ 
+W urden die Eing ang saktivit äten erf olgreich dur chlauf en, wir d
+ 
+der Ant r ag
+ 
+einer
+ 
+weit eren, inhalt li-
+chenValidierung im Pr üf m odulder G r oßk undenschnit t st elle 
+unt erzog en
+ 
+unddiej eweil ig ezustän-
+dig e 
+ZulB
+ 
+er m it t elt
+.
+ 
+Sof er n Fehler bei der Validierung auf t r et en, 
+wir d eine 
+Q uitt ung des Pr üf moduls m it der Nachr icht 
+kommunika
+tion.quittung.0002
+ 
+ber eitg estellt
+.
+ 
+Kann die Valid ierung  f ehlerf r ei dur chlauf en werden, 
+überm it t elt
+ 
+das Pr üf modul den ang ereicher -
+
+vorsystem.antrag.
+070
+7
+ 
+andieG KSzurück .
+ 
+4.2. 3
+ 
+Zuständi ge Zul B auf  
+vorhandenes
+ 
+i
+-
+Kf z
+-
+Port alprüfen
+ 
+NachdemderAntr agimPr üf m odulvalidiert wurde, wir düber prüf t,obdasPr üf m oduldenAr beit s-
+g ang f ür die weit ere Verarbeit ung des Antr ag s gesetzt  hat . I st  dies nicht  der  Fall, wir d der 
+QC 
+00715 
+überm it t elt .
+ 
+W urdediePr üf ung dur chdas
+ 
+Pr üf m odulerf olg r eichdur chlauf en,wir d
+ 
+erm it telt , obdie 
+inderX
+K
+fz
+-
+Nachr icht 
+vorsystem.antrag.
+070
+7
+ 
+ang eg ebene,
+ 
+zuständig e 
+ZulB
+ 
+eini
+-
+Kf z
+-
+Port al 
+besit zt ,das 
+k om pat ibel m it  der  i
+-
+Kf z St uf e 4 ist  und
+ 
+somit
+ 
+eine vollaut omat isiert e Ent scheidung  dur chf ühr en
+ 
+k ann
+.
+ 
+I stf ürdiese 
+ZulB
+ 
+eini
+-
+Kfz
+-
+Port alhinter legt,wir dder Ant r agf ürdiesesber eitg estellt
+ 
+( siehe 
+4. 2.4
+).
+ 
+Konnte 
+der  Komm unik ationspar t nerschlüssel
+ 
+des zuständig en i
+-
+Kf z
+-
+Por t als nicht in der KO DA 
+erm itt elt werden, wir d der  
+QC
+ 
+00130
+ 
+überm it t elt.  
+I st k ein Port al hinter legt , wir d der  Antr ag  
+im 
+Postf ach 
+andasFachverf ahr en 
+der  
+ZulB
+ 
+zu
+r
+ 
+weit e r enEntscheidung  
+ber eitgest ellt
+. 
+Esw
+e
+rd
+en
+ 
+die 
+Q uit t ungscodes 
+Q C 
+0077
+5
+ 
+und
+ 
+Q C 07085
+ 
+in der  Nachr icht 
+kommunikation.quittung.0002
+ 
+ausg eg eben.
+ 
+4.2. 4
+ 
+An gerei chert en Antr ag f üri
+-
+Kf z
+-
+Port al berei t stell en
+ 
+Der ang er eichert e 
+A
+ntr ag des G
+r oßk unden
+ 
+wir d
+ 
+t empor är in einer Vorg ang sdat enbank g espei-
+cher t und über  
+den i
+-
+Kf z
+-
+W ebservice dem
+ 
+f ür  die zuständig e ZulB 
+hinter legte
+m
+ 
+i
+-
+Kf z
+-
+Port al 
+zum 
+Abruf  ber eitg est ellt
+.
+ 
+
+Ze ntra le  G roßk undens c hnitts tell e
+ 
+ 
+ 
+Sta n d : 
+Ap ri l
+ 
+202
+5
+ 
+Se i te : 
+9
+ 
+Für  den Abruf  von Antr äg en wir d die 
+XKfz
+BasisNachricht
+ 
+verwendet ,  als Q uit t ung  g ibt  die 
+Schnit t st elledieSamm elnachricht 
+kommunikation.sammelnachricht.0001
+ 
+zurück ,welche 
+die Antr äg e ent hält.
+ 
+I st der Komm unik ationspart ner schlüssel des Absender s ( i
+-
+Kf z
+-
+Por t al) in der Nachr icht nicht vor-
+handen, wir ddem i
+-
+Kf z
+-
+Port alder 
+Q C00
+1
+14
+ 
+überm it t elt .Sof ernf ürdasi
+-
+Kf z
+-
+Por t alakt uellk eine 
+Antr äg e zum Abruf  ber eitst ehen, wir  der  
+Q C 00003
+ 
+zurückg eg eben.
+ 
+4.2. 5
+ 
+An t ragsberei t stell ungfür 
+die 
+Zul assungsbehörde
+ 
+I stk ein i
+-
+Kf z
+-
+Por t al vorhanden, wir d der ang ereicher t e Antr ag der  
+ZulB
+ 
+über ein FT
+-
+Postf ach be-
+r eitg estellt.  Hierzu werden die ber eits best ehenden FT
+-
+Postf ächer f ür die ZulB aus i
+-
+Kf z verwen-
+det , welche f ür  d
+en Austausch zwischen KBA und ZulBg enutzt  werden.
+ 
+4.2. 6
+ 
+Vorgang beob
+achten
+ 
+Jedei
+-
+Kf z
+-
+Por t alinstanzm usszyk lisch,allezwe iSek unden,dievomKBAber eitg estellt eSchnitt-
+st elle zum Abruf  von Zulassungsantr äg en auf r uf en. 
+Erf olg t ein Abruf  eines Antr ags
+ 
+nicht
+ 
+binnen
+ 
+6
+0 Sek unden
+,  wir d der Antr ag  an das Fachverfahr en der zuständig en ZulB ausg est euert . Der 
+G
+r oßk unde
+ 
+erhält einen Hin weis über die W eit erleit ung  anhand des 
+Q C 00
+7
+7
+4
+ 
+in der  Nachr icht 
+kommunikation.quittung.0002
+.
+ 
+Zusätzlich wir d der  Q u
+itt ung scode 
+Q C 07085 
+in der  Q uit -
+t ung  erg änzt
+. 
+ 
+W ird eine Verar beit ung szeit  
+des Antr ag s,
+ 
+ink lusive der  Entscheidung  
+der i
+-
+Kf z
+-
+Port ale
+, 
+von 
+6
+0 
+Sek unden überschritt en, ist eine synchr one W eiterverar beit ung nicht m ög lich
+.
+ 
+Der G r oßk unde 
+erhält  die Mög lichk eit zur spät eren 
+St at usabf r ag e. Er  er hält  
+die Nachricht  
+kommunika-
+tion.quittung.0002
+ 
+m it de
+nQ uitt ung scodes
+ 
+Q C 
+07077
+ 
+und
+ 
+Q C 07085
+.
+ 
+Ant r äg e,  
+der en Ver-
+arbeit ung szeit  im i
+-
+Kf z
+-
+Port al 
+5 Minut en oder länger
+ 
+andauert ,
+ 
+werden 
+an das Fachverf ahr en der 
+zuständig en ZulB 
+ausg est euert
+.
+ 
+ 
+ 
+Beiposit iver 
+oderneg ativer 
+Ent scheidung dur chdiei
+-
+Kf z
+-
+Port alinstanzwir d
+ 
+demG r oßk undendie 
+Nachr icht 
+kommunikation.quittung.0002
+ 
+z
+urückg eg eben.
+ 
+Diese 
+enthält  den Q uit t ung s-
+code des i
+-
+Kf z
+-
+Port als der Zulassung sb
+ehör de
+ 
+sowie den 
+Q C 07085
+.
+ 
+4.3
+ 
+St atusanfrage verarbeit en
+ 
+DerG
+r oßk unde
+ 
+hat dieMög lichk eit denSt at usseinesAntr agsüberdieGKSabzufr ag en. 
+Hierbei 
+g ilt  es zu beacht en,  dass 
+d
+ie zyk lische Anf r ag e (Polling )  zur 
+St at usabf r age
+ 
+m axim al einmal pro 
+Minut e dur chzuf
+ühr en
+ 
+ist
+.
+ 
+ 
+Hierzu nut zt  er die X Kf z
+-
+Nachr icht 
+vorsystem.anfragestatus.0703
+ 
+unt er Ang abe der  An-
+t r ag snum mer.  
+I st der Nutzer nicht ber echt igt
+, dieSt atusanf r ag e zu nut zen, wir d der  
+Q C 
+00200
+ 
+in 
+der  Nachr icht 
+kommunikation.quittung.0002
+ 
+zurückg eg eben.
+ 
+Beif ehlenden Ang aben zur 
+Ref er enz 
+oder der Antr ag snum m er  werden der  
+QC 00305
+ 
+oder der 
+Q C 
+000
+0
+3 
+überm it t elt .
+ 
+Lieg en alle benöt ig t en Ang aben vor, lief ert die G r oßk undenschn
+it tst elle in der X Kf z
+-
+Nachr icht 
+vorsystem.status.0706
+ 
+den St at us zurück , der  f ür d
+en 
+ang ef r agten
+ 
+Antr ag g eset zt ist. 
+Die 
+m ög lichen Auspr äg ung en der St at us laut e
+
+
+
+ 
+ 
+
+Ze ntra le  G roßk undens c hnitts tell e
+ 
+ 
+ 
+Sta n d : 
+Ap ri l
+ 
+202
+5
+ 
+Se i te : 
+10
+ 
+5
+ 
+Qui ttungsc odes
+ 
+Nachf olg endesExt r akt derX Kf z
+-
+Codelist eQ uitt ung scodewir ddur chdasVerf ahr enG KSg enut z
+t.
+ 
+Die 
+Codelist e 
+st eht
+ 
+in aktueller Version im 
+X Reposit ory ( www. xr eposit ory. de)
+ 
+zur Verf üg ung
+.
+ 
+Co d e
+ 
+T ext
+ 
+0000
+1
+ 
+Diese Funktionalit ät ist  nicht im plement iert!
+ 
+00
+003
+ 
+Es wurdenk eine Dateng ef unden!
+ 
+00
+11
+4
+ 
+Der 
+Absender derX Kf z
+-
+Nachr icht ist  ung ült ig oder unbek annt !
+ 
+00024
+ 
+Fehler 
+beim Verar beit ender X Kf z
+-
+Nachr icht !
+ 
+00104
+ 
+Die X ML
+-
+Daten entsprechen nicht dem ak t uellenX Kf z
+-
+Schem a!
+ 
+00107
+ 
+DerX Kf z
+-
+Nachr ichtent yp wir d nicht unt er st ützt !
+ 
+00
+130
+ 
+Der 
+Komm unik ationspar tner k onnt e nicht  er m itt elt werden.
+ 
+00200
+ 
+Sie sind nicht zugr if f sberecht igt!
+ 
+00202
+ 
+Die Zert if ik atsprüf ung  ist f ehlg eschlag en!
+ 
+00
+203
+ 
+Die Sig nat ur prüf ung  istfehlg eschlag en!
+ 
+00
+206
+ 
+Vollm acht  nicht vorhanden
+.
+ 
+00208
+ 
+Zer t if ik at  nicht 
+vorhanden.
+ 
+00209
+ 
+Dig it ale Sig nat ur nicht vorhanden
+ 
+00301
+ 
+Das Feld m uss bef üllt  werden!
+ 
+00303
+ 
+Es wurden ung ült ig e Daten überg eben!
+ 
+00305
+ 
+Der ang eg ebeneW ert ist ung ült ig
+!
+ 
+00306
+ 
+Der ang eg ebeneW ert ist unplausibel!
+ 
+00700
+ 
+Sie sind nicht ber echt igt,f ür  
+Dr it t e einen Antr ag  zu st ellen!
+ 
+00707
+ 
+Die Ref er enz des elekt r onischen Antr ags ist ung uelt ig !
+ 
+00715
+ 
+Allg emeiner  Fehler  bei der Verar beit ung des elekt r onischen Antr ags!
+ 
+00774
+ 
+Der Antr ag  wurde zur weit eren Bear beit ung  an die Zulassung sbehör de 
+wei-
+t erg eleit et.
+ 
+00775
+ 
+Der Antr ag k onnt e von dem  i
+-
+Kf z
+-
+Por t al nicht  verarbeit et werden und wurde 
+zur weit eren Bear beit ung an die Zulassung sbehörde weit erg eleit et.
+ 
+07077
+ 
+Der Antr ag  ist  beim Portal in Bear beit ung .
+ 
+07078
+ 
+Der Zust ändigk eit sf inderant wort et 
+der zeit  nicht.
+ 
+07079
+ 
+Zur  ang eg ebenen Anschr if tk onntek eine Zulassung sbehör de er m it t elt wer-
+den.
+ 
+07080
+ 
+Zur  ang eg ebenen Zulassung sbehör dek onntek ein i
+-
+Kf z
+-
+Port al erm itt elt  wer-
+den. 
+ 
+07081
+ 
+Das i
+-
+Kf z
+-
+Port al ist verf üg bar .
+ 
+07082
+ 
+Das i
+-
+Kf z Port al st eht ak tue
+ll nicht zur Verf üg ung .
+ 
+07083
+ 
+Halt erdat en nicht vorhanden.
+ 
+0708
+5
+ 
+Für  den Antr ag wir d eine G ebühr  nachG eb. Nr.  129 G ebO St erhoben
+.
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impressum 
+ 
+ 
+Herausgeber
+:
+ 
+Kr af tf ahrt
+-
+Bundesamt
+ 
+24932 Flensburg
+ 
+ 
+I nter net:
+ 
+www. k ba. de
+ 
+ 
+ 
+Fachliche Ausk ünf t e und Berat ung:
+ 
+ 
+T elef on:
+ 
+0461 316
+-
+0
+ 
+T elef ax:
+ 
+0461 316
+-
+1650
+ 
+E
+-
+Mai l:  
+ 
+k ba@k ba. de
+ 
+ 
+ 
+Er schienen im 
+Sept em ber
+ 
+202
+4
+ 
+St and:
+ 
+ 
+April 2025
+ 
+ 
+Dr uck :
+ 
+Dr uck zent r um KBA
+ 
+ 
+Bildq uelle:
+ 
+n.
+ 
+a.
+ 
+ 
+ 
+ 
+ 
+ 
+Al l e  Re c h te  vo rbe h al te n . Die Ve rvi e l fäl ti gu n g u nd  Ve rb re i tun g  di e se r Ve rö ff en tli c hu n g , a uc h  a u s zu gs we i s e u nd  in 
+d i g i ta l e r Fo rm , is t n u r m i t Qu e ll e n a ng a be  g e sta tt et.  Dies  g i l t a u c h, we n n  In h a l te  d i es e r Ve rö ff e n tl ic h u ng  
+we i te rve r-
+b re i tet we rd e n , di e  nu r mi tt el ba r e rl an g t wu rd e n .
+ 
+ 
+© Kra ft fa h rt
+-
+Bu n de s am t, Fl e nsb u rg
+ 
+ 

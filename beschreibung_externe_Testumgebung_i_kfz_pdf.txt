@@ -1,0 +1,1393 @@
+ 
+ 
+ 
+i
+-
+Kfz
+ 
+Int ernetbasierte Fahrzeugz
+u
+las sung
+ 
+ 
+Bes
+c
+hreib u ng d er ex tern
+en Tes t
+umg ebu
+ng
+ 
+St and:  
+April
+ 
+20
+23
+ 
+ 
+
+Inter ne tba s ie rte Fa hrze ugzula s s ung
+ 
+Beschr eibung der ext ernenT estumg ebung
+ 
+ 
+ 
+Sta n d : 
+Ap
+ri l
+ 
+20
+23
+ 
+Se i te : 
+2
+ 
+ 
+ 
+Seit e
+ 
+1
+ 
+Al l gemei nes
+ 
+................................
+................................
+................................
+................
+ 
+3
+ 
+1.1
+ 
+Änderungsverzeichnis
+ 
+................................
+................................
+................................
+..
+ 
+3
+ 
+1.2
+ 
+Mit g elt ende Dok ument e
+ 
+................................
+................................
+................................
+ 
+4
+ 
+1.3
+ 
+T abellenverzeichnis
+ 
+................................
+................................
+................................
+......
+ 
+4
+ 
+1.4
+ 
+Abk ür zung sverzeichnis
+ 
+................................
+................................
+................................
+.
+ 
+4
+ 
+1.5
+ 
+Abbildung sverzeichnis
+ 
+................................
+................................
+................................
+..
+ 
+4
+ 
+2
+ 
+Verf ügbarkei t und Anbi ndung der Test umgebung
+ 
+................................
+...................
+ 
+5
+ 
+3
+ 
+Au f bau der Test umgebung
+ 
+................................
+................................
+........................
+ 
+6
+ 
+4
+ 
+An gebot ene Funkti onali t äten
+ 
+................................
+................................
+.....................
+ 
+8
+ 
+5
+ 
+Test dat enbestand
+ 
+................................
+................................
+................................
+.....
+ 
+10
+ 
+6
+ 
+Kont akt  zum KB A
+ 
+................................
+................................
+................................
+.....
+ 
+10
+ 
+7
+ 
+Datenschutz
+ 
+................................
+................................
+................................
+..............
+ 
+11
+ 
+ 
+ 
+ 
+
+Inter ne tba s ie rte Fa hrze ugzula s s ung
+ 
+Beschr eibung der ext ernenT estumg ebung
+ 
+ 
+ 
+Sta n d : 
+Ap
+ri l
+ 
+20
+23
+ 
+Se i te : 
+3
+ 
+1
+ 
+Al
+l ge me in
+es
+ 
+1.1
+ 
+Än derungs verzei chnis
+ 
+Än derungs verzei chnis
+ 
+Versi on
+ 
+Datum
+ 
+G eändert e
+ 
+Kapi t el
+-
+Nr.
+ 
+Än derung
+ 
+1.0
+ 
+07. 05. 2018
+ 
+ 
+Er st er st ellung
+ 
+1.1
+ 
+25. 09. 2018
+ 
+2
+ 
+Link  der  ext er nenT est umg ebung  erg änzt
+ 
+1.2
+ 
+02. 05. 2019
+ 
+3, 4
+ 
+W ebservice Bundesdruck er ei zur Überm itt lung ZB2 
+m it  Sicher heit scode auf genom m en,  Akt ualisierung 
+Abbildung  zum Auf bau derT est umg ebung
+ 
+1.3
+ 
+08. 07. 2019
+ 
+2, 
+3,  4
+ 
+W ebservice zur Überm it tlung  von I VI
+-
+CoC
+-
+Mit t eilun-
+g en auf g enom m en, Ak t ualisierung  Abbildung 1 
+
+ 
+Auf
+bau derT est umg ebung
+ 
+1.4
+ 
+07. 08. 2019
+ 
+2
+ 
+Änderung der URLf ür i
+-
+Kf zT est umg ebung
+ 
+1.5
+ 
+13. 04. 2023
+ 
+Alle
+ 
+Akt ualisierung bzg l. St ufe 4
+ 
+ 
+ 
+ 
+ 
+T abelle 1: Änd erun gs ver ze i c hnis
+ 
+ 
+ 
+
+Inter ne tba s ie rte Fa hrze ugzula s s ung
+ 
+Beschr eibung der ext ernenT estumg ebung
+ 
+ 
+ 
+Sta n d : 
+Ap
+ri l
+ 
+20
+23
+ 
+Se i te : 
+4
+ 
+1.2
+ 
+M it gelt ende Dokumente
+ 
+T est dat enverzeichnis i
+-
+Kf z
+ 
+ 
+1.3
+ 
+Tabell enverzei chnis
+ 
+T abelle1:  
+Änderungsverzeichnis
+ 
+T abelle2:  Abk ürzung sverzeichnis
+ 
+ 
+1.4
+ 
+Ab kürzungs verzei chnis
+ 
+CoC
+ 
+Cert if icate of  Conf or m it y
+ 
+DO I
+ 
+Deut schlandO nline I nf r ast r ukt ur
+ 
+EUCARI S
+ 
+European Car and dr ivin g license I nf orm ation 
+Syst em
+ 
+eVB
+ 
+elek tr onische Ver sicher ung sbest ätig ung
+ 
+FZMI T
+ 
+Fahrzeug m it t eilung
+ 
+G DV
+-
+DL
+ 
+G esam t verband Deut scher Versicher er Dienst -
+leist ung s
+-
+Gm bH & Co.KG
+ 
+G KS
+ 
+G r oßk undenschnit tst elle
+ 
+HU
+ 
+Hauptunt ersuchung
+ 
+I PSec
+ 
+I nter net Pr ot ocol Secur ity
+ 
+I SDN
+ 
+I ntegrat ed Services Dig ital Network
+ 
+IT Z Bund
+ 
+I nf or m at ionst echnik zent rum
+ 
+Bund
+ 
+KBA
+ 
+Kr af tf ahrt
+-
+Bundesamt
+ 
+PW
+ 
+Passwort
+ 
+SABRI NA
+ 
+Syst em zum asynchr onen, behör denübergrei-
+f endenI nf or m at ions
+-
+ 
+und Nachr ichtenaus-
+t ausch
+ 
+TU
+ 
+T echnische Unter suchung
+ 
+T UMI T
+ 
+T echnische Unter suchung Mit t eilung
+ 
+VPN
+ 
+Vir t ual Pr ivate Network
+ 
+WS
+ 
+W ebservice
+ 
+ZEVI S
+ 
+Zentr ales Verk ehrsinf orm ationssyst em
+ 
+ZFZR
+ 
+Zentr ales Fahr zeugreg ister
+ 
+ 
+T abell e 2:  A bk ürzu ngs v er zeic hn is
+ 
+ 
+1.5
+ 
+Ab bil dungsverzei chnis
+ 
+ 
+Abb.  1: Auf bau derT est umg ebung
+ 
+ 
+ 
+
+Inter ne tba s ie rte Fa hrze ugzula s s ung
+ 
+Beschr eibung der ext ernenT estumg ebung
+ 
+ 
+ 
+Sta n d : 
+Ap
+ri l
+ 
+20
+23
+ 
+Se i te : 
+5
+ 
+2
+ 
+Verf ügbarkei t 
+und Anbi ndung 
+der Test umgebung
+ 
+D
+ie T est umg ebung ist spätest ens 6
+ 
+Monate vorW ir k bet r ieberr eichbar . Das KBA st ellt sicher,  
+dass alle ent wick elt en Syst emk omponent en, wel che die KBA eig enen internenT est s erf olgreich 
+absolviert  haben, zu diesemT er m in verf üg bar sind.
+ 
+Konkr ete I nf orm ationenüber die Verf üg bark eit sowie An
+passung en oderEr weit erung en der T e-
+st umg ebung werden über  den in Kapit el 6 erläuter t en Vert eilerkr eis über mit t elt .
+ 
+Der of f iziell vom KBA unterst üt zt eT est zeit r aum endetm it W irk bet r ieb der St uf e 
+3
+. Ab diesem 
+Zeit punkt wir d der in Kapit el 6g enannt e Kont akt
+ 
+durch die Anwender betr euung des KBA abg e-
+löst.  DieT est umg ebung bleibt err eichbar  und wir df or t lauf end akt ualisiert .
+ 
+Sie ist err eichbar unt er :
+ 
+htt ps: // t est.k ba
+-
+online. de/ i
+-
+kf z_test / ikf zSO A
+P?wsdl
+ 
+ 
+DerW ebser viceW S BDR 
+
+ 
+Mit t eilung  pr oduziert er ZB2m it Sicher heit scode ist  nur  in derT e-
+st umg ebung des Behördennet zes unt er  
+ 
+htt ps: // t est por t al.k ba. doi
+-
+de. net/ bundesdr uck erei_t est/ bundesdruck erei/ bundesdr uck er eiSO AP
+ 
+ 
+err eichbar
+ 
+( ausschließlich Zug r if f  auf  denT est datenbest and).
+ 
+ 
+DerW ebser vice zur Über m itt lung von
+ 
+I VI
+-
+CoC
+-
+Mi t t eilung en ist unt er f olg endem Link err eichbar:
+ 
+htt ps: // t est.k ba
+-
+online. de/ ivicoc_t est/ inter coc/ cocSO AP?wsdl
+ 
+ 
+ 
+Die erf orderlichen Zug ang sdat en( Benutzerk ennung und Kennwort ) sind
+ 
+bei der  KBA
+-
+Anwen-
+der betr euung  
+(
+Anwender bet r euung @k ba. de
+) 
+f or mlos 
+zu beant r ag en.  Das 
+Antr ag sf orm ular
+ 
+f ür 
+den 
+Echtbet r ieb
+ 
+kann aus demg eschüt zt en Bereich des KBA her unt erg eladen werden.
+ 
+ 
+Um  die i
+-
+Kf z
+-
+T est
+-
+W ebservices über dasj eweil ig eT est
+-
+Port al der Zulassung sbehör de er r eichen 
+zu k önnen, ist eineI nternet
+-
+Verbindung erf order lich. Die Anbindung setzt das Bestehe
+n eines 
+VPN
+-
+T unnel voraus.  Sowe it  dieser  noch nicht best eht,  ist  die Anbindung über einen VPN
+-
+T un-
+nel bei der  KBA
+-
+Anwender betr euung  
+(
+Anwender bet r euung @k ba. de
+) 
+zu beant r ag en.  Der Antr ag  
+sollt eg emeinsam m it der
+ 
+Beantr ag ung der  Zug ang sdat en erf olg en, k ann aber  auch im Nach-
+g ang eing er eicht werden.
+ 
+ 
+ 
+
+Inter ne tba s ie rte Fa hrze ugzula s s ung
+ 
+Beschr eibung der ext ernenT estumg ebung
+ 
+ 
+ 
+Sta n d : 
+Ap
+ri l
+ 
+20
+23
+ 
+Se i te : 
+6
+ 
+3
+ 
+Au f bau der Test umgebung
+ 
+Der Auf bau derT est umgebungg estalt et sich nachf olg endem Schem a:
+ 
+ 
+Abb
+. 
+1: Auf bau der Tes tumgebung
+ 
+ 
+W ie darg est ellt , unt er t eilt sich dieT est u
+mg ebung  in zwe i Bereiche,  diem it einander ag ieren. Ei-
+nig e Syst em e sind überdas I nt ernet (g esichert mit t els eines VPN/I PSec)ander e über  das 
+NdB
+-
+Verbindung snet z
+ 
+(g esichert m itt els 
+T LS oder bisEnde 2019 
+eines VPN/ PrivateW ir e) err eichbar.  
+Die Überm itt lung d
+er t echnischen Unt ersuchung (T UMI T )k ann in der ext ernenT estumg ebung 
+sowohl über das I nt er net,  als auch das 
+NdB
+-
+Verbindung snet z
+ 
+erf olg en.  Dam it  wir d den Zulas-
+sung sbehör den die Mög lichk eitg eg eben auch HU
+-
+T est dat en über  das 
+NdB
+-
+Verbindungsnetz
+ 
+einzustellen
+.
+ 
+Für  denT est  der  Funkt ionalit äten 
+ab 
+der 3. St uf e ist die Pr üf ung der ZB2 und des 
+Sicher heit scodes erf or der lich. Dazu ist über  dasNdB
+-
+Verbindung snet z die Mög lichk eit zur 
+Über m itt lung der ZB2
+-
+Num m er  und Sicher heit scode in dieT est umg ebungeing ericht et wo
+r den. 
+I n Produkt ion ist  dieser W ebservice allein der  Bundesdr uck er ei vorbehalten.
+ 
+Für  die Nut zung  der  CoC
+-
+Daten zur Über nahm e dert echnischen Beschreibung bei Neuzulas-
+sung en
+,  st ehenT estdat en 
+in einer g esondert enTest dat enbank(T est
+-
+I VI
+-
+CoC
+-
+DB)  
+zur Verf ü-
+gu
+ng, die der  
+I VI
+-
+CoCW ebservicebeschr eibung zu Anf r ag en und Ausk ünf ten zuf ahr zeug indivi-
+duellen Daten nat ional
+ 
+zu ent nehm ensind
+. I m Bedarf sf allk önnen über  die Schnit t st elle I VI
+-
+CoC
+-
+Mit t eilung  eig ene Daten 
+in dieT est umg ebung eing est ellt  werden.
+ 
+Die Zug ang sdat en sind 
+g esonder t über dieT ypdatenverwalt ung  
+(
+T ypdaten
+-
+I VI
+-
+T est @k ba. de
+) 
+beider  Anwender bet r eu-
+ung 
+(
+Anwend
+erbet r euung @k ba. de
+) 
+anzuf or der n.
+ 
+I n Produkt ion ist  der W ebser vice allein den 
+Herst ellern vorbehalt en.
+ 
+
+Inter ne tba s ie rte Fa hrze ugzula s s ung
+ 
+Beschr eibung der ext ernenT estumg ebung
+ 
+ 
+ 
+Sta n d : 
+Ap
+ri l
+ 
+20
+23
+ 
+Se i te : 
+7
+ 
+Für T est sm it Versicher ung snachweis st ellt das KBA in der  ext er nenT est umg ebung  das best e-
+hende eVB
+-
+T est
+-
+Verf ahren zur Verf üg ung . Hier bietet dieG DV DL ei
+n Por tal,  in dem T est
+-
+eVB
+-
+Numm er n er st ellt werdenk önnen. Diese sind anschließend in der  ext er nenT estumg ebung ab-
+r uf bar . 
+ 
+Für T est s der  Schnit t st elle zum 
+IT Z Bund
+ 
+wir d eine Anbindung an dieT estumg ebung  des 
+IT Z 
+Bund
+ 
+g eschaf f en. Hiersteht  einf est erT estda
+t enbestand zur Verf üg ung , derf ür Ende
+-
+zu
+-
+Ende
+-
+T est szenarieng enutzt werdenk ann.
+ 
+Die Syst eme derG r oßk undenschnit t st elle (G KS)g reif en auf  die i
+-
+Kf z
+-
+I nf r ast r ukt ur zu, die aus 
+diesem G r und erweit ertwurde.  Fer ner wurde eine Komm unik ationsplattf or m ( SABRI N
+A)f ür  
+einef achunabhäng ig e Komm unik at ion eing ef ühr t.  Diese st eht in beiden Netzsegm ent en zur 
+Verf üg ung .
+ 
+ 
+ 
+
+Inter ne tba s ie rte Fa hrze ugzula s s ung
+ 
+Beschr eibung der ext ernenT estumg ebung
+ 
+ 
+ 
+Sta n d : 
+Ap
+ri l
+ 
+20
+23
+ 
+Se i te : 
+8
+ 
+4
+ 
+An gebot ene Funkti onali t äten
+ 
+Die 
+T est umg ebung
+ 
+bietet  die Mög lichk eit , Ende
+-
+zu
+-
+Ende
+-
+Szenarien von der  Mit t eilung  einer Zu-
+lassung an das ZFZR bis zur
+ 
+( inter net basiert en)  Außerbetr iebsetzung und 
+W ieder zulassung  
+über 
+ent sprechende 
+Schnit t st elle
+n
+ 
+zu t est en.  
+ 
+Der vollst ändig e Funk
+t ionsumf ang der ext ernenT est umg ebung beinhalt et
+:
+ 
+
+ 
+Für  Über wachungsinstitut ionen:
+ 
+o
+ 
+PW 01 
+
+ 
+Änderung desPasswort s (I nter net)
+ 
+o
+ 
+PW 02
+ 
+
+ 
+Inf or m at ion zurG ült igk eit sdauer ( I nt ernet )
+ 
+o
+ 
+T U 01 
+
+ 
+Speicher ung  einert echnischen Unt ersuchung
+ 
+o
+ 
+T U 02 
+
+ 
+St ornierung einert echnischen Unt ersuchung
+ 
+o
+ 
+T U 03 
+
+ 
+G ener ierung  einerT U
+-
+Pr üf zif f er
+ 
+
+ 
+Für  Zulassung sbehör den und der en Sof t wareanbieter:
+ 
+o
+ 
+Für  Port ale:
+ 
+
+ 
+PW  
+01 
+
+ 
+Änderung desPasswort s (I nter net)
+ 
+
+ 
+PW 02 
+
+ 
+Inf or m at ion zurG ült igk eit sdauer ( I nt ernet )
+ 
+
+ 
+W S01 
+
+ 
+Ausk unf t ZFZR
+ 
+ 
+
+ 
+W S02 
+
+ 
+Ausk unf t Daten Zulassung sbehör de
+ 
+
+ 
+W S03 
+
+ 
+Überm itt lung Antr ag
+ 
+
+ 
+W S04 
+
+ 
+Pr üf ung  Verf ügbark eit
+ 
+
+ 
+W S05 
+
+ 
+G enerier ungTU
+-
+Pr üf zif f er
+ 
+ 
+
+ 
+W S06 
+
+ 
+Pr üf ung  Kf z
+-
+Steuerr ück st ände
+ 
+
+ 
+W S07 
+
+ 
+Pr üf ung  Ver sicher ung
+ 
+
+ 
+W S08 
+
+ 
+Pr üf ung  Sicherheit scodes
+ 
+
+ 
+W S09 
+
+ 
+Pr üf ung  Bank daten
+ 
+
+ 
+W S10 
+
+ 
+Pr üf ung  Fahr zeug akt e
+ 
+
+ 
+W S11 
+
+ 
+Pr üf ung  Sicherheit scode ZBII
+ 
+
+ 
+W S12 
+
+ 
+Freig abe Sicher heit scode ZB II
+ 
+
+ 
+W S13 
+
+ 
+Ausk unf t
+-
+CoC
+-
+nat ional
+ 
+
+ 
+W S 
+14 
+
+ 
+Ausk unf t
+-
+CoC
+-
+EUCARI S
+ 
+
+ 
+W S15 
+
+ 
+Mit t eilung
+-
+ZFZR
+ 
+
+ 
+W S16 
+
+ 
+AG NES ( Abruf von G r oßk undendat en der Kr af t St
+-
+Ver walt ung )
+ 
+
+ 
+W S17 
+
+ 
+G RO NZU( Abruf  von Gr oßk undendat en des KBA)
+ 
+
+ 
+W S18 
+
+ 
+Abruf G KS
+-
+Zulassungsantr ag
+ 
+
+ 
+W S19 
+
+ 
+EntscheidungG KS Antr ag
+ 
+
+ 
+W S20 
+
+ 
+Abruf  von 
+Verwendung snachweisdat ender  ZBI I (I nf o
+-
+VN)
+ 
+
+ 
+SABRI NA
+-
+W ebser vice
+ 
+
+Inter ne tba s ie rte Fa hrze ugzula s s ung
+ 
+Beschr eibung der ext ernenT estumg ebung
+ 
+ 
+ 
+Sta n d : 
+Ap
+ri l
+ 
+20
+23
+ 
+Se i te : 
+9
+ 
+o
+ 
+Für  Fachverf ahr en:
+ 
+
+ 
+PW 01 
+
+ 
+Änderung desPasswort s (
+NdB
+-
+VN
+)
+ 
+
+ 
+PW 02 
+
+ 
+Inf or m at ion zurG ült igk eit sdauer (
+NdB
+-
+VN
+)
+ 
+
+ 
+W SBDR 
+
+ 
+Mit t eilung pr oduziert er ZB2m it Sicherheit scode(
+NdB
+-
+VN
+)
+ 
+
+ 
+T U 01 
+
+ 
+Speicher u
+ng  einert echnischen Unt ersuchung
+ 
+
+ 
+T U 02 
+
+ 
+St ornierung einert echnischen Unt ersuchung
+ 
+
+ 
+T U 03 
+
+ 
+G ener ierung  einerT U
+-
+Pr üf zif f er
+ 
+
+ 
+Zugrif f  auf  die elek tr onischen 
+T est
+-
+Postf ächer
+ 
+
+ 
+M
+it t eilung  
+T est
+-
+ZFZRW ebservice
+ 
+( FZMI T )
+ 
+(
+NdB
+-
+VN
+)
+ 
+
+ 
+T est
+-
+ZEVI S
+-
+Ausk unf t 
+(
+NdB
+-
+VN
+)
+ 
+
+ 
+Speicher ung einesI VI 
+-
+ 
+CoC Satzes
+ 
+
+ 
+SABRI NA
+-
+W ebser vice
+ 
+ 
+ 
+
+Inter ne tba s ie rte Fa hrze ugzula s s ung
+ 
+Beschr eibung der ext ernenT estumg ebung
+ 
+ 
+ 
+Sta n d : 
+Ap
+ri l
+ 
+20
+23
+ 
+Se i te : 
+10
+ 
+5
+ 
+Test dat enbestand
+ 
+JedesT est
+-
+Fachverf ahr enk ann seinen eig enenTest dat enbest and auf bauen bzw.  in die T est -
+dat enbank  einspielen
+ 
+und dam it die Funkt ionalit ät eines Port als und/ oder eines Fachverf ahr ens 
+te
+st en.  Diese Best ändedürf en nur vom einstellenden Komm unik ationspar t ner  selbst  bear beit et 
+undg enutzt  werden, sof ernk eine individuellen V ereinbarung en exist ieren.  Dam it  wir d j edem  
+T eilnehmer das individue lle T est enm it  eig enem Test best and erm ög licht.  Jede
+r T eilnehmer ist 
+f ür seinen eig enenT est datenbest and selbst verantwort lich. Das KBA wir dk eine Sicher ung oder 
+Rück set zung dur chf ühr en.
+ 
+Für  einig e ausg ewählt eSachverhalt e st ellt  das KBA einen T est best and zur Verf üg ung . 
+Dieser 
+Bestand darf ,  um  eineW iederho
+lbar k eit  der T est s zu g ewähr leist en nicht verändert  werden. 
+Der  
+T est dat e
+nk at alog  
+[
+1.2
+] 
+wir d über  den unt er  Kapit el 
+6g enannt en 
+Ver t eiler 
+an alle or dnung sg e-
+m äßr eg ist r i
+er t enT eilnehmer bek anntg eg eben und 
+im G eschüt zt en Ber eich der KBA I nt ernet -
+seit e 
+veröf f ent licht
+.
+ 
+ 
+6
+ 
+Kont akt  zum KB A
+ 
+Das KBA bietet einen 
+E
+-
+M ail
+-
+Vert eil er
+ 
+an,f ür  den sichj ederT eilnehmeram ext ernenT est r e-
+g istr ieren lassenm uss,  um  alle wichtig en 
+I nf orm ationen zur T est umg ebung zu er halt en. Die Re-
+g istr ierung erf olgtf orm los über eine E
+-
+Mail anf olg ende E
+-
+Mail
+-
+Adresse:
+ 
+221
+-
+Ve rfa h ren sb etre uu n g@ kb a.d e
+ 
+Über  den Ver t eiler veröf f ent licht das KBA 
+I nf orm at ionen zum Betr ieb der  ext ernenT estumg e-
+bung wie T estdat enk at alog e,  Bereit st ellung  von neuen Funk t ionen, g eplant eW art ung sf enst er , 
+ung eplant e Ausf älle oder sonst ig e I nf orm ationen.
+ 
+ 
+ 
+
+Inter ne tba s ie rte Fa hrze ugzula s s ung
+ 
+Beschr eibung der ext ernenT estumg ebung
+ 
+ 
+ 
+Sta n d : 
+Ap
+ri l
+ 
+20
+23
+ 
+Se i te : 
+11
+ 
+ 
+T echnische oderf achliche Frag en der ext ernen Part ner  zumT est sin
+d ausschließlich an die 
+ 
+Adresse 
+221
+-
+Verf ahr ensbet r euung @k ba. de
+ 
+oder im  Zeit r aum von:
+ 
+ 
+Monta g 
+
+ 
+Fre ita g von  9 :00  Uhr 
+
+ 
+14 :00  Uhr
+ 
+ 
+Bei Kont ak t auf nahme über einen der  auf gef ühr t enW ege ist  ein Anspr echpar
+t ner  beim ext ernen 
+Part ner zu benennen, an den dieT est bet r euer  des KBA ihre Rückm eldung r ichtenk önnen.
+ 
+ 
+7
+ 
+Datenschutz
+ 
+I n der T est umg ebung  werden dur ch das KBAk eine Produkt ionsdat en zurVerf üg ung gest ellt.  
+Hat einT eilnehmer  am Test  die Mög lichk eit , Mit t e
+ilung en in dieT est umg ebung einzustellen,  ist  
+er verpf lichtet ,f ür  denT est  er zeug t eT est dat en zu verwenden, aus denenk ein Rückschluss auf  
+Echtdat en m ög lich ist .
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impressum 
+ 
+ 
+Herausgeber:
+ 
+Kr af tf ahrt
+-
+Bundesamt
+ 
+24932 
+Flensburg
+ 
+ 
+I nter net:
+ 
+www. k ba. de
+ 
+ 
+ 
+Fachliche Ausk ünf t e und Berat ung:
+ 
+ 
+T elef on:
+ 
++49 461 316
+-
+0
+ 
+T elef ax:
+ 
++49 461 316
+-
+1650
+ 
+E
+-
+Mai l:  
+ 
+k ba@k ba. de
+ 
+ 
+ 
+Er schienen im 
+Se
+ptem ber
+ 
+202
+3
+ 
+St and: 
+Apr il
+ 
+202
+3
+ 
+ 
+Dr uck :
+ 
+Dr uck zent r um KBA
+ 
+ 
+Bildq uelle: 
+www. shut t erst ock . de
+ 
+ 
+ 
+ 
+ 
+ 
+Al l e  
+Rec h te vo rb e ha l ten . Die Ve rvi e l fäl ti gu n g u n d  Ve rb rei tu ng d i es e r Ve rö ff e ntl ic h un g ,a u ch a u s zu gs we i s e  un d  in  
+d i g i ta l e rFo rm , is t nu r mi t Qu e lle n a n ga b e g es ta tte t.  Die s  gi l tau c h , we n n  In h al te  di es e r Ve rö ffe n tli c hu n g  we i te rve rb re i -
+te t we rd e n , di e  nu r mi tt el b a r 
+e rl a n g t wu rd e n .
+ 
+ 
+© Kra ft fa h rt
+-
+Bu n de s am t, Fl e nsb u rg
+ 
+ 
+ 
+ 
+ 
